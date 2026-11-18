@@ -6,10 +6,10 @@ import json, re, sys, importlib.util
 from pathlib import Path
 A = Path(__file__).resolve().parent
 sys.path.insert(0, str(A))
-import sorular_a, sorular_b, sorular_c, sorular_d, sorular_e, sorular_f, sorular_g, sorular_h, sorular_i
-from kaynak_ek import EK, RUTTER, RUTTER_KUNYE
+import sorular_a, sorular_b, sorular_c, sorular_d, sorular_e, sorular_f, sorular_g, sorular_h, sorular_i, sorular_j
+from kaynak_ek import EK, RUTTER, RUTTER_KUNYE, IACAPAP, IACAPAP_KUNYE, GABBARD, GABBARD_KUNYE
 S = (sorular_a.SORULAR_A + sorular_b.SORULAR_B + sorular_c.SORULAR_C + sorular_d.SORULAR_D
-     + sorular_e.SORULAR_E + sorular_f.SORULAR_F + sorular_g.SORULAR_G + sorular_h.SORULAR_H + sorular_i.SORULAR_I)
+     + sorular_e.SORULAR_E + sorular_f.SORULAR_F + sorular_g.SORULAR_G + sorular_h.SORULAR_H + sorular_i.SORULAR_I + sorular_j.SORULAR_J)
 
 md = Path(sys.argv[1]).read_text(encoding="utf-8")
 satirlar = [l[2:].strip() for l in md[md.index("## Kaynakça"):].splitlines() if l.startswith("- ")]
@@ -38,6 +38,12 @@ for q in S:
         tur, ad = k.split(":", 1)
         if tur == "r":
             out[k] = {"metin": RUTTER_KUNYE + " Bölüm %s: %s." % (ad, RUTTER[int(ad)]), "doi": ""}
+            continue
+        if tur == "i":
+            out[k] = {"metin": IACAPAP_KUNYE + " Bölüm %s: %s." % (ad, IACAPAP[ad]), "doi": ""}
+            continue
+        if tur == "g":
+            out[k] = {"metin": GABBARD_KUNYE + " Bölüm %s: %s." % (ad, GABBARD[int(ad)]), "doi": ""}
             continue
         if tur == "db":
             r, aday = db_coz(ad)

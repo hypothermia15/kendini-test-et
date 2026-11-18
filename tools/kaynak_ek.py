@@ -99,3 +99,26 @@ RUTTER = {
 }
 RUTTER_KUNYE = "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025."
 
+RUTTER.update({2: "Diagnosis, diagnostic formulation, and classification", 3: "Neurodevelopmental disorders", 7: "Infant and early childhood mental health",
+ 8: "Temperament mechanisms in developmental psychopathology", 9: "Transdiagnostic perspectives", 13: "Identifying causal effects using natural experiments and other designs",
+ 22: "Psychosocial adversity", 23: "Resilience: a multilevel developmental psychopathology perspective", 24: "Impact of parental psychiatric disorder on children's psychological outcomes",
+ 25: "Child abuse and neglect", 27: "Clinical assessment and formulation", 28: "Use of structured interviews, rating scales, and observational methods in clinical settings",
+ 34: "Cognitive and behavioral therapies", 35: "Systemic family therapy", 36: "Relationship-based treatments", 40: "Diversity: gender identity and sexual orientation",
+ 42: "Residential care, foster care, and adoption", 47: "Forensic child and adolescent psychiatry"})
+
+# IACAPAP e-Textbook: bölüm kodu -> başlık (kitabın metninden).
+IACAPAP = {"B1.1": "Attention Deficit Hyperactivity Disorder", "B1.3": "Tic Disorders", "C.1": "Intellectual Disability", "F.3": "Obsessive Compulsive Disorder in Children and Adolescents",
+ "B2.2": "Selective Mutism", "B2.3": "Anxiety Disorders", "E.1": "Depression in Children and Adolescents", "B2.5": "Bipolar Disorders", "B3.1": "Eating Disorders",
+ "B3.2": "Oppositional Defiant Disorder", "B3.3": "Conduct Disorders", "B3.4": "Enuresis", "B3.5": "Encopresis", "B5.1": "Acute and Chronic Reactions to Trauma in Children and Adolescents",
+ "B5.4": "Early Maltreatment and Exposure to Violence", "B5.5": "Failure to Thrive", "B.6.1": "Borderline Personality Disorder in Adolescents", "B6.3": "Deliberate Self Harm/Suicide",
+ "B6.4": "Problematic Internet Use", "B7.1": "Schizophrenia and Other Psychotic Disorders of Early Onset", "A.7": "Principles in Using Psychotropic Medication in Children and Adolescents",
+ "H.5.1": "Using Antipsychotic Medication for the Treatment of Schizophrenia in Children and Adolescents", "I.4": "Sleep Disorders in Children and Adolescents", "C4.4": "Pediatric Delirium: A Practical Approach",
+ "C4.6": "Child and Adolescent Psychiatric Emergencies", "A.5": "The Clinical Examination of Children, Adolescents and Their Families", "A2.3": "Clinical Practice in Infant and Early Childhood Mental Health",
+ "C.2": "Autism Spectrum Disorder", "I.1": "Somatic Symptom, Bodily Distress and Related Disorders in Children and Adolescents", "B4.1": "Alcohol Misuse"}
+IACAPAP_KUNYE = "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions."
+GABBARD = {1: "Basic Principles of Dynamic Psychiatry", 2: "The Theoretical Basis of Dynamic Psychiatry", 3: "Psychodynamic Assessment of the Patient",
+ 5: "Treatments in Dynamic Psychiatry: Group Therapy, Family/Marital Therapy, and Pharmacotherapy", 6: "Treatments in Dynamic Psychiatry: Multiple-Treater Settings", 8: "Affective Disorders",
+ 12: "Substance-Related and Addictive Disorders and Eating Disorders", 13: "Neurodevelopmental and Neurocognitive Disorders", 15: "Cluster B Personality Disorders: Borderline",
+ 16: "Cluster B Personality Disorders: Narcissistic", 17: "Cluster B Personality Disorders: Antisocial", 19: "Cluster C Personality Disorders: Obsessive-Compulsive, Avoidant, and Dependent"}
+GABBARD_KUNYE = "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014."
+
