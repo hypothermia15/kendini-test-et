@@ -54,6 +54,12 @@
     });
   }
 
+  /* İki ya da üç cümleli kökü bağlam + soru olarak ayırır: soru cümlesi tek başına okunur. */
+  function kokBol(s) {
+    var n = Math.max(s.lastIndexOf(". "), s.lastIndexOf(": "));
+    if (n < 12 || s.length - n < 14) return ["", s];
+    return [s.slice(0, n + 1), s.slice(n + 2)];
+  }
   function primHesap(ms) {
     if (ms <= TAM_PRIM) return PRIM;
     return Math.max(0, Math.round(PRIM * (1 - (ms - TAM_PRIM) / (SURE - TAM_PRIM))));
@@ -92,7 +98,12 @@
     var m = test[no], q = m.q;
     $("sira").textContent = "Soru " + (no + 1) + " / " + SORU_SAYISI;
     $("kat").textContent = VERI.kat[q.k];
-    $("soru").textContent = q.s;
+    var parca = kokBol(q.s);
+    $("baglam").textContent = parca[0];
+    $("baglam").hidden = !parca[0];
+    $("soru").textContent = parca[1];
+    $("etiket").textContent = q.e || "";
+    $("etiket").hidden = !q.e;
     var kutu = $("secenekler");
     kutu.textContent = "";
     m.sira.forEach(function (oz, konum) {
@@ -170,7 +181,10 @@
 
   function kaynakYaz(kutu, q) {
     kutu.textContent = "";
-    kutu.appendChild(el("span", "kaynak-ad", q.r.length > 1 ? "Kaynaklar" : "Kaynak"));
+    var ac = el("details"), ozet = el("summary", "kaynak-ad", q.r.length > 1 ? "Kaynaklar" : "Kaynak");
+    ac.appendChild(ozet);
+    kutu.appendChild(ac);
+    kutu = ac;
     q.r.forEach(function (ri) {
       var r = VERI.kaynak[ri], p = el("p", null, r.m + " ");
       var adres = r.d ? "https://doi.org/" + r.d : (r.p ? "https://pubmed.ncbi.nlm.nih.gov/" + r.p + "/" : "");

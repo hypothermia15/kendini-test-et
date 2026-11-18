@@ -9,7 +9,7 @@ A = Path(__file__).resolve().parent
 KOK = A.parent
 sys.path.insert(0, str(A))
 import sorular_a, sorular_b, sorular_c, sorular_d, sorular_e, sorular_f, sorular_g, sorular_h, sorular_i, sorular_j, sorular_k, sorular_l
-from secenek_duzelt import DUZELT, DOGRU
+from secenek_duzelt import DUZELT, DOGRU, SORU
 
 S = (sorular_a.SORULAR_A + sorular_b.SORULAR_B + sorular_c.SORULAR_C + sorular_d.SORULAR_D
      + sorular_e.SORULAR_E + sorular_f.SORULAR_F + sorular_g.SORULAR_G + sorular_h.SORULAR_H + sorular_i.SORULAR_I + sorular_j.SORULAR_J + sorular_k.SORULAR_K + sorular_l.SORULAR_L)
@@ -21,11 +21,25 @@ DAGILIM = {sorular_a.GE: 2, sorular_a.DG: 3, sorular_a.NG: 3, sorular_a.DD: 2, s
            sorular_a.PS: 3, sorular_a.FA: 1, sorular_a.BI: 3, sorular_a.KU: 1}
 assert sum(DAGILIM.values()) == TEST_SORU
 
+ONEKLER = [("DSM-5-TR'ye göre ", "DSM-5-TR"), ("Rutter'a göre ", "Rutter"), ("IACAPAP'a göre ", "IACAPAP"), ("ICD-11'e göre ", "ICD-11")]
+TUR_ETIKET = {"r": "Rutter", "i": "IACAPAP", "g": "Gabbard"}
+OZEL_ETIKET = {"x:dsm5tr": "DSM-5-TR", "x:maudsley15": "Maudsley"}
 kats = list(DAGILIM)
 say = Counter(q[1] for q in S)
 ref_sira, refs, veri = {}, [], []
 kimlikler = set()
 for kid, kat, soru, sec, acik, kay in S:
+    soru = SORU.get(kid, soru)
+    # Kaynak adını sorunun başından alıp etikete taşı: kök kısalır, çerçeve yine görünür.
+    etiket = ""
+    for on, ad in ONEKLER:
+        if soru.startswith(on):
+            kalan = soru[len(on):]
+            soru = {"i": "İ", "ı": "I"}.get(kalan[0], kalan[0].upper()) + kalan[1:]
+            etiket = ad
+            break
+    if not etiket:
+        etiket = TUR_ETIKET.get(kay[0].split(":")[0], "") or OZEL_ETIKET.get(kay[0], "")
     sec = DUZELT.get(kid, sec)
     if kid in DOGRU:
         sec = [DOGRU[kid]] + list(sec[1:])
@@ -47,7 +61,7 @@ for kid, kat, soru, sec, acik, kay in S:
             refs.append({"m": metin.replace("–", "-"), **({"d": r["doi"]} if r.get("doi") else {}),
                          **({"p": pmid} if pmid and not r.get("doi") else {})})
         idx.append(ref_sira[k])
-    veri.append({"i": kid, "k": kats.index(kat), "s": soru, "c": sec, "a": acik, "r": idx})
+    veri.append({"i": kid, "k": kats.index(kat), "s": soru, "c": sec, "a": acik, "r": idx, **({"e": etiket} if etiket else {})})
 for kat, n in DAGILIM.items():
     assert say[kat] >= 3 * n, (kat, say[kat])   # art arda üç testte yinelenmeyecek kadar soru
 
@@ -127,9 +141,11 @@ sayfa = f"""<!doctype html>
   <div class="durum">
     <span id="sira" class="sira"></span>
     <span id="kat" class="kat"></span>
+    <span id="etiket" class="etiket" hidden></span>
     <span class="puan-kutu">Puan <b id="puan">0</b></span>
   </div>
   <div class="sayac" role="timer" aria-label="Kalan süre"><i id="sayac-cubuk"></i><span id="sayac-yazi">30</span></div>
+  <p id="baglam" class="baglam" hidden></p>
   <h2 id="soru" tabindex="-1"></h2>
   <div id="secenekler" class="secenekler"></div>
   <div id="geri-bildirim" class="geri-bildirim" aria-live="polite" hidden>
