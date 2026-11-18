@@ -131,3 +131,22 @@ IACAPAP.update({"A1.3": "Typical Child and Adolescent Development", "A2.1": "Tra
  "C1.4": "Parenting Programs and Parent-Mediated Programs", "G.2": "Substance Use Disorders", "H.3": "Transgender and Gender Non-Conforming Youth",
  "C4.8": "Clinical Quality and Patient Safety"})
 
+
+LEWIS = {"1.1": "A History of Child Psychiatry in the United States", "2.1": "Infant and Toddler", "2.4": "Adolescent",
+ "4.1": "Epidemiology", "4.3": "From Genes to Brain: Developmental Neurobiology", "4.4": "Assessing Risk: Gene Discovery",
+ "5.1": "Formulation and Integration", "5.2": "Clinical Assessment of Infants and Toddlers",
+ "5.3": "Clinical Assessment of Children and Adolescents: Content and Structure", "5.4": "Psychological and Neuropsychological Assessment",
+ "6.1": "Attention-Deficit Hyperactivity Disorder", "6.2": "Oppositional Defiant Disorder, Conduct Disorder, and Disruptive Mood Dysregulation Disorder",
+ "6.3": "Aggressive Behavior", "6.4": "Autism Spectrum Disorder", "6.5": "Intellectual Disability Disorder", "6.6": "Learning Disabilities",
+ "6.7": "Disorders of Communication in Children", "6.8": "Childhood-Onset Schizophrenia and Other Early-Onset Psychotic Disorders",
+ "6.9": "Depressive Disorders", "6.10": "Bipolar Spectrum Disorders", "6.11": "Anxiety Disorders", "6.12": "Obsessive-Compulsive Disorder",
+ "6.13": "Trichotillomania and Excoriation Disorder", "6.14": "Tic Disorders", "6.15": "Anorexia Nervosa, Bulimia Nervosa, and Binge Eating Disorder",
+ "6.16": "Pica, Rumination Disorder, and Avoidant/Restrictive Food Intake Disorder", "6.17": "Substance Use: Approaches to Diagnosis and Treatment",
+ "6.18": "Nicotine, Cannabis, and Vaporized Substances", "6.19": "Sleep Disorders", "6.20": "Functional Somatic Symptoms and Disorders",
+ "6.21": "Delirium and Catatonia", "6.23": "Personality Disorders in Children and Adolescents", "6.24": "Gender Incongruence and Gender Dysphoria",
+ "6.25": "Child Abuse and Neglect", "6.26": "Posttraumatic Stress Disorder", "6.28": "Caregiver-Fabricated Illness in a Child",
+ "7.2": "General Principles and Clinical Practice", "7.3": "ADHD: Stimulant and Nonstimulant Agents", "7.4": "Antidepressants", "7.5": "Antipsychotics",
+ "7.6": "Mood Stabilizers", "7.7": "Other Biologic Interventions", "7.8": "Psychotherapy for Children and Adolescents: A Critical Overview",
+ "7.9": "Cognitive-Behavioral Therapy", "7.10": "Interpersonal Psychotherapy", "7.12": "Psychodynamic Principles in Practice", "7.13": "Group Therapy",
+ "9.6": "Epilepsy"}
+LEWIS_KUNYE = "van Schalkwyk GI, Volkmar FR, Bloch MH, Stevens HE, Martin A, editörler. Lewis's Child and Adolescent Psychiatry: A Comprehensive Textbook. 6. baskı. Philadelphia: Wolters Kluwer; telif yılı 2027."

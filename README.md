@@ -2,7 +2,7 @@
 
 Çocuk ve ergen psikiyatrisi ağırlıklı bilgi yarışı. [miracbarisusta.com/kendini-test-et](https://miracbarisusta.com/kendini-test-et/) adresinde yayımlanır.
 
-- 1000 soruluk havuzdan her testte rastgele 20 soru gelir; seçeneklerin sırası her gösterimde karışır.
+- 1250 soruluk havuzdan her testte rastgele 20 soru gelir; seçeneklerin sırası her gösterimde karışır.
 - Her doğru yanıt 100 taban puan ve en çok 100 hız primi kazandırır. Hız primi ilk 3 saniyede tamdır, 30. saniyede sıfırlanır.
 - Yanıttan sonra doğru seçenek, kısa açıklama ve kaynak gösterilir.
 - Skorlar rumuzla herkese açık tabloya gönderilebilir (bu ay ve tüm zamanlar).
@@ -35,4 +35,8 @@ Sorular ve yanıtlar tarayıcıya gönderildiği için tablo hileye karşı tam 
 
 ## Kaynaklar ve lisans
 
-Sorular DSM-5-TR'ye, Rutter's Child and Adolescent Psychiatry and Psychology'ye (7. baskı), IACAPAP e-Textbook'a ve Gabbard'ın Psychodynamic Psychiatry in Clinical Practice kitabına (5. baskı; bu üç kitabın soruları metinden çıkarılmış, bölüm numarasıyla kaynak gösterilmiştir), Maudsley Prescribing Guidelines'a (15. baskı), kuramcıların özgün yapıtlarına ve araştırma makalelerine dayanır. DOI ya da PubMed bağlantısı taşıyan makale künyeleri PubMed üzerinden doğrulanmıştır; kitaplar ve eski makaleler bağlantısız, yalnızca künyeyle verilir. DSM-5-TR ve Maudsley soruları kitap düzeyinde kaynak gösterir; sayfa numarası verilmemiştir. Eğitim amaçlıdır; klinik karar yerine geçmez. Lisans için `LICENSE` dosyasına bakın.
+Sorular DSM-5-TR'ye, Rutter's Child and Adolescent Psychiatry and Psychology'ye (7. baskı), Lewis's Child and Adolescent Psychiatry'ye (6. baskı), IACAPAP e-Textbook'a ve Gabbard'ın Psychodynamic Psychiatry in Clinical Practice kitabına (5. baskı; bu dört kitabın soruları metinden çıkarılmış, bölüm numarasıyla kaynak gösterilmiştir), Maudsley Prescribing Guidelines'a (15. baskı), kuramcıların özgün yapıtlarına ve araştırma makalelerine dayanır. DOI ya da PubMed bağlantısı taşıyan makale künyeleri PubMed üzerinden doğrulanmıştır; kitaplar ve eski makaleler bağlantısız, yalnızca künyeyle verilir. DSM-5-TR ve Maudsley soruları kitap düzeyinde kaynak gösterir; sayfa numarası verilmemiştir. Eğitim amaçlıdır; klinik karar yerine geçmez. Lisans için `LICENSE` dosyasına bakın.
+
+## Soru kimlikleri
+
+Kimlikler `q000`–`q999` aralığını doldurduktan sonra dört haneyle sürer (`q1000`…). Sitenin skor işlevi (`netlify/functions/skor/cekirdek.mjs`) kimliği `/^q\d{3,4}$/` ile doğrulamalıdır; üç haneli eski doğrulama dört haneli soruları içeren testlerin skorunu reddeder. Lewis soruları taranmış kitabın OCR metninden çıkarılmıştır.
