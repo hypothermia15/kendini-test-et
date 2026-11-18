@@ -150,3 +150,13 @@ LEWIS = {"1.1": "A History of Child Psychiatry in the United States", "2.1": "In
  "7.9": "Cognitive-Behavioral Therapy", "7.10": "Interpersonal Psychotherapy", "7.12": "Psychodynamic Principles in Practice", "7.13": "Group Therapy",
  "9.6": "Epilepsy"}
 LEWIS_KUNYE = "van Schalkwyk GI, Volkmar FR, Bloch MH, Stevens HE, Martin A, editörler. Lewis's Child and Adolescent Psychiatry: A Comprehensive Textbook. 6. baskı. Philadelphia: Wolters Kluwer; telif yılı 2027."
+
+LEWIS.update({"1.2": "Global Child and Adolescent Mental Health", "1.3": "Education and Training",
+ "3.1": "Navigating Racial Minority Status in Clinical Practice", "3.3": "Psychiatric Care of the Deaf, Blind, or Deaf-Blind Child",
+ "3.4": "Sexual Minority Youth: Supporting the Integration of Evolving Sexual Identities", "3.5": "Gender Diverse Youth and Gender Minority Stress",
+ "4.5": "Molecular Basis of Select Childhood Psychiatric Disorders", "8.5": "Community-Based Treatment and Services",
+ "8.6": "Telepsychiatry With Children and Adolescents", "9.1": "Integrating Behavioral Health Services Into Pediatric Care: Principles and Models",
+ "9.3": "Cancer", "9.5": "Psychosocial Aspects of HIV/AIDS", "9.9": "Military Youth and Families"})
+IACAPAP.update({"E.3": "Disruptive Mood Dysregulation Disorder", "A1.1": "History of Childhood", "J.10": "History of Child Psychiatry",
+ "A1.6": "Planetary Health - Impacts and Opportunities", "A3.2": "A Global Perspective on Training and Education in Child and Adolescent Psychiatry",
+ "J.12": "Wellbeing: Identification and Prevention of Burnout, Depression and Suicide Among Child Mental Health Clinicians"})

@@ -2,7 +2,7 @@
 
 Çocuk ve ergen psikiyatrisi ağırlıklı bilgi yarışı. [miracbarisusta.com/kendini-test-et](https://miracbarisusta.com/kendini-test-et/) adresinde yayımlanır.
 
-- 1250 soruluk havuzdan her testte rastgele 20 soru gelir; seçeneklerin sırası her gösterimde karışır.
+- 1500 soruluk havuzdan her testte rastgele 20 soru gelir; seçeneklerin sırası her gösterimde karışır.
 - Her doğru yanıt 100 taban puan ve en çok 100 hız primi kazandırır. Hız primi ilk 3 saniyede tamdır, 30. saniyede sıfırlanır.
 - Yanıttan sonra doğru seçenek, kısa açıklama ve kaynak gösterilir.
 - Skorlar rumuzla herkese açık tabloya gönderilebilir (bu ay ve tüm zamanlar).
