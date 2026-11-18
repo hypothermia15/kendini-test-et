@@ -112,4 +112,11 @@ DOGRU = {
 "q486": "Lamotrijin daha düşük dozla başlanır", "q487": "Etkililiklerini azaltır", "q489": "Paradoksal ajitasyon",
 "q491": "Hiponatremi riskini önlemek için", "q493": "Bilişsel yavaşlama", "q494": "Serotonin sendromu ve etkileşim riski nedeniyle",
 "q495": "Metabolizma ve atılım görece hızlı olduğu için",
+"q507": "Yeni başlayan yemek yememe ya da gerileme", "q511": "Çok nadir: %1'den az", "q512": "Bilişsel güçlüğü olanların terapiye erişimini kısıtlar",
+"q517": "Kesme noktası bağlama göre seçildiği için", "q520": "Hafifte %7, ağırda %35", "q531": "Karşıt olma ya da davranım bozukluğu varsa",
+"q534": "Kötüleşme plasebodan sık değildi", "q547": "Hiç kalmamışta %7, ailede %24, kurumda %42", "q549": "Nadir sayılır; toplum çalışması yoktur",
+"q574": "Gençlikte başlayan majör depresyon", "q588": "Yaygınlık ölçme yöntemine çok bağlıdır", "q594": "Yarısından fazlası (%56)",
+"q595": "Zihinselleştirme temelli ya da olağan tedavi", "q596": "Yaklaşık on üç ayını", "q599": "Uyanıklık ve duygudurumda düzelme",
+"q616": "Tek yumurta ikizleri özdeştir, çift yumurta ikizleri yarı yarıya", "q619": "Ebeveynlikte küçük düzelme; davranışta etki yok",
+"q621": "Kazanç silindi; ortalamaya dönüldü",
 }

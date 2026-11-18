@@ -85,3 +85,17 @@ EK = {
  "bowen1978": ("Bowen M. Family Therapy in Clinical Practice. New York: Jason Aronson; 1978.", ""),
  "rutter1970": ("Rutter M, Tizard J, Whitmore K. Education, Health and Behaviour. Londra: Longman; 1970.", ""),
 }
+
+# Rutter 7. baskı: soruların dayandığı bölümler (başlıklar kitabın metninden alınmıştır).
+RUTTER = {
+ 6: "Attachment: normal development, individual differences, and associations with experience", 21: "Genetics", 33: "Parenting programs",
+ 39: "Pharmacological treatments, dietary-based interventions, and neuromodulation therapies", 50: "Autism", 51: "Developmental language disorders",
+ 52: "Specific learning disorders", 53: "Intellectual disability", 54: "Attention deficit hyperactivity disorder", 55: "Tic disorders",
+ 56: "Schizophrenia and psychosis", 57: "Disorders of attachment and social engagement related to deprivation", 58: "Post-traumatic stress disorder",
+ 59: "Anxiety disorders", 60: "Obsessive-compulsive disorder", 61: "Body dysmorphic disorder", 62: "Bipolar disorder in childhood and adolescence",
+ 63: "Depressive disorders in children and adolescents", 64: "Self-harm in young people", 65: "Oppositional defiant and conduct disorders",
+ 66: "Substance use and substance use disorder", 67: "Personality disorders", 68: "Sleep and sleep disorders in children and adolescents",
+ 69: "Feeding and eating disorders", 70: "Somatic symptom and related disorders",
+}
+RUTTER_KUNYE = "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025."
+
