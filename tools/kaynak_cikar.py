@@ -6,9 +6,10 @@ import json, re, sys, importlib.util
 from pathlib import Path
 A = Path(__file__).resolve().parent
 sys.path.insert(0, str(A))
-import sorular_a, sorular_b, sorular_c, sorular_d
+import sorular_a, sorular_b, sorular_c, sorular_d, sorular_e, sorular_f, sorular_g, sorular_h
 from kaynak_ek import EK
-S = sorular_a.SORULAR_A + sorular_b.SORULAR_B + sorular_c.SORULAR_C + sorular_d.SORULAR_D
+S = (sorular_a.SORULAR_A + sorular_b.SORULAR_B + sorular_c.SORULAR_C + sorular_d.SORULAR_D
+     + sorular_e.SORULAR_E + sorular_f.SORULAR_F + sorular_g.SORULAR_G + sorular_h.SORULAR_H)
 
 md = Path(sys.argv[1]).read_text(encoding="utf-8")
 satirlar = [l[2:].strip() for l in md[md.index("## Kaynakça"):].splitlines() if l.startswith("- ")]
@@ -19,7 +20,7 @@ sanat = json.loads(Path(sys.argv[3]).read_text(encoding="utf-8"))
 
 def db_coz(etiket):
     soyad, yil = etiket.rsplit(" ", 1)
-    ad = [l for l in satirlar if l.startswith(soyad + " ") or l.startswith(soyad + ",")]
+    ad = [l for l in satirlar if l.startswith(soyad + " ") or l.startswith(soyad + ",") or l.startswith(soyad + ".")]
     aday = [l for l in ad if re.search(r"\b%s[;.)]" % yil, l)]
     if len(aday) != 1:
         return None, [l[:110] for l in (aday or ad)]
@@ -44,7 +45,7 @@ for q in S:
             out[k] = {"metin": sanat[ad]["metin"].replace(", et al.", ", ve ark."), "doi": sanat[ad].get("doi", ""), "pmid": sanat[ad].get("pmid", "")}
         else:
             if ad not in EK: hata.append((q[0], k, "yok")); continue
-            out[k] = {"metin": EK[ad][0], "doi": EK[ad][1]}
+            out[k] = {"metin": EK[ad][0], "doi": EK[ad][1], **({"pmid": EK[ad][2]} if len(EK[ad]) > 2 else {})}
 for h in hata: print("ÇÖZÜLEMEDİ", h)
 if not hata:
     (A / "kaynaklar.json").write_text(json.dumps(out, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")

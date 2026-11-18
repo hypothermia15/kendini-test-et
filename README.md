@@ -2,7 +2,7 @@
 
 Çocuk ve ergen psikiyatrisi ağırlıklı bilgi yarışı. [miracbarisusta.com/kendini-test-et](https://miracbarisusta.com/kendini-test-et/) adresinde yayımlanır.
 
-- 156 soruluk havuzdan her testte rastgele 20 soru gelir; seçeneklerin sırası her gösterimde karışır.
+- 500 soruluk havuzdan her testte rastgele 20 soru gelir; seçeneklerin sırası her gösterimde karışır.
 - Her doğru yanıt 100 taban puan ve en çok 100 hız primi kazandırır. Hız primi ilk 3 saniyede tamdır, 30. saniyede sıfırlanır.
 - Yanıttan sonra doğru seçenek, kısa açıklama ve kaynak gösterilir.
 - Skorlar rumuzla herkese açık tabloya gönderilebilir (bu ay ve tüm zamanlar).
@@ -13,7 +13,7 @@
 | --- | --- |
 | `index.html` | Üretilen sayfa; soru havuzu sayfanın içindedir. Elle düzenlenmez. |
 | `test.js`, `test.css` | Test motoru ve biçim. |
-| `tools/sorular_a.py` … `sorular_d.py` | Soru havuzu. Doğru yanıt her soruda ilk seçenektir. |
+| `tools/sorular_a.py` … `sorular_h.py` | Soru havuzu. Doğru yanıt her soruda ilk seçenektir. |
 | `tools/secenek_duzelt.py` | Seçenek uzunluklarını dengeleyen düzeltmeler (doğru yanıt uzunluğuyla belli olmasın). |
 | `tools/kaynaklar.json` | Soruların kaynakları. |
 | `tools/kaynak_ek.py`, `tools/kaynak_cikar.py` | Kaynak listesini üreten yardımcılar. |
@@ -21,7 +21,7 @@
 
 ## Soru eklemek
 
-1. Soruyu `tools/sorular_*.py` dosyalarından birine yeni bir kimlikle (`q157`…) ekleyin. Kimlikler kalıcıdır; silinen sorunun kimliği yeniden kullanılmaz.
+1. Soruyu `tools/sorular_*.py` dosyalarından birine yeni bir kimlikle (`q501`…) ekleyin. Kimlikler kalıcıdır; silinen sorunun kimliği yeniden kullanılmaz.
 2. Kaynak öteki rehberlerin kaynakçasında yoksa `tools/kaynak_ek.py` dosyasına ekleyin ve `tools/kaynak_cikar.py` betiğini çalıştırın.
 3. `python3 tools/olustur.py` ile sayfayı yeniden üretin.
 
@@ -35,4 +35,4 @@ Sorular ve yanıtlar tarayıcıya gönderildiği için tablo hileye karşı tam 
 
 ## Kaynaklar ve lisans
 
-Sorular DSM-5-TR'ye, kuramcıların özgün yapıtlarına ve araştırma makalelerine dayanır. Makale künyeleri PubMed üzerinden doğrulanmıştır. Eğitim amaçlıdır; klinik karar yerine geçmez. Lisans için `LICENSE` dosyasına bakın.
+Sorular DSM-5-TR'ye, Maudsley Prescribing Guidelines'a (15. baskı), kuramcıların özgün yapıtlarına ve araştırma makalelerine dayanır. DOI ya da PubMed bağlantısı taşıyan makale künyeleri PubMed üzerinden doğrulanmıştır; kitaplar ve eski makaleler bağlantısız, yalnızca künyeyle verilir. DSM-5-TR ve Maudsley soruları kitap düzeyinde kaynak gösterir; sayfa numarası verilmemiştir. Eğitim amaçlıdır; klinik karar yerine geçmez. Lisans için `LICENSE` dosyasına bakın.

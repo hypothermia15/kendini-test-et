@@ -8,10 +8,11 @@ from pathlib import Path
 A = Path(__file__).resolve().parent
 KOK = A.parent
 sys.path.insert(0, str(A))
-import sorular_a, sorular_b, sorular_c, sorular_d
-from secenek_duzelt import DUZELT
+import sorular_a, sorular_b, sorular_c, sorular_d, sorular_e, sorular_f, sorular_g, sorular_h
+from secenek_duzelt import DUZELT, DOGRU
 
-S = sorular_a.SORULAR_A + sorular_b.SORULAR_B + sorular_c.SORULAR_C + sorular_d.SORULAR_D
+S = (sorular_a.SORULAR_A + sorular_b.SORULAR_B + sorular_c.SORULAR_C + sorular_d.SORULAR_D
+     + sorular_e.SORULAR_E + sorular_f.SORULAR_F + sorular_g.SORULAR_G + sorular_h.SORULAR_H)
 KAYNAK = json.loads((A / "kaynaklar.json").read_text(encoding="utf-8"))
 ADRES = "https://miracbarisusta.com/kendini-test-et/"
 TEST_SORU = 20
@@ -26,6 +27,8 @@ ref_sira, refs, veri = {}, [], []
 kimlikler = set()
 for kid, kat, soru, sec, acik, kay in S:
     sec = DUZELT.get(kid, sec)
+    if kid in DOGRU:
+        sec = [DOGRU[kid]] + list(sec[1:])
     assert re.fullmatch(r"q\d{3}", kid) and kid not in kimlikler, kid
     kimlikler.add(kid)
     assert kat in DAGILIM and len(sec) == 4 and len(set(sec)) == 4, kid
@@ -159,7 +162,7 @@ sayfa = f"""<!doctype html>
 </main>
 <footer class="alt">
   <p><strong>Hazırlayan:</strong> Doç. Dr. Miraç Barış Usta · Kasım 2026 · <a href="https://miracbarisusta.com">miracbarisusta.com</a></p>
-  <p>Sorular DSM-5-TR’ye, kuramcıların özgün yapıtlarına ve araştırma makalelerine dayanır; her sorunun kaynağı
+  <p>Sorular DSM-5-TR’ye, Maudsley Prescribing Guidelines’a (15. baskı), kuramcıların özgün yapıtlarına ve araştırma makalelerine dayanır; her sorunun kaynağı
   yanıttan sonra gösterilir. Sitedeki <a href="https://miracbarisusta.com/cocuk-psikiyatrisi-sanati/">Çocuk Psikiyatrisinin Sanatı</a>
   ve <a href="https://miracbarisusta.com/davranisin-biyolojisi/">Davranışın Biyolojisi</a> rehberleriyle birlikte çalışılabilir.</p>
   <p>Eğitim amaçlıdır; bilgiler Kasım 2026 itibarıyladır. Klinik karar yerine geçmez. Skor tablosu eğlence amaçlıdır;

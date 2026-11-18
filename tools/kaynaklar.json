@@ -1,4 +1,16 @@
 {
+ "db:Ahlqvist 2024": {
+  "doi": "10.1001/jama.2024.3172",
+  "metin": "Ahlqvist VH, Sjöqvist H, Dalman C, Karlsson H, Stephansson O, Johansson S, ve ark. Acetaminophen Use During Pregnancy and Children's Risk of Autism, ADHD, and Intellectual Disability. JAMA. 2024;331(14):1205–1214."
+ },
+ "db:Arnett 2025": {
+  "doi": "10.1111/jcpp.14110",
+  "metin": "Arnett AB, Antúnez M, Zeanah C, Fox NA, Nelson CA. Physical and neurophysiological maturation associated with ADHD among previously institutionalized children: a randomized controlled trial. J Child Psychol Psychiatry. 2025;66(7):967–979."
+ },
+ "db:Axelrod 1981": {
+  "doi": "10.1126/science.7466396",
+  "metin": "Axelrod R, Hamilton WD. The evolution of cooperation. Science. 1981;211(4489):1390–6."
+ },
  "db:Azevedo 2009": {
   "doi": "10.1002/cne.21974",
   "metin": "Azevedo FA, Carvalho LR, Grinberg LT, Farfel JM, Ferretti RE, Leite RE, ve ark. Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain. J Comp Neurol. 2009;513(5):532–41."
@@ -7,29 +19,101 @@
   "doi": "10.1037/a0017376",
   "metin": "Belsky J, Pluess M. Beyond diathesis stress: differential susceptibility to environmental influences. Psychol Bull. 2009;135(6):885–908."
  },
+ "db:Berendzen 2023": {
+  "doi": "10.1016/j.neuron.2022.12.011",
+  "metin": "Berendzen KM, Sharma R, Mandujano MA, Wei Y, Rogers FD, Simmons TC, ve ark. Oxytocin receptor is not required for social attachment in prairie voles. Neuron. 2023;111(6):787–796.e4."
+ },
  "db:Berridge 1998": {
   "doi": "10.1016/s0165-0173(98)00019-8",
   "metin": "Berridge KC, Robinson TE. What is the role of dopamine in reward: hedonic impact, reward learning, or incentive salience? Brain Res Brain Res Rev. 1998;28(3):309–69."
+ },
+ "db:Betancourt 2010": {
+  "doi": "10.1111/j.1467-8624.2010.01455.x",
+  "metin": "Betancourt TS, Borisova II, Williams TP, Brennan RT, Whitfield TH, de la Soudiere M, ve ark. Sierra Leone's former child soldiers: a follow-up study of psychosocial adjustment and community reintegration. Child Dev. 2010;81(4):1077–95."
  },
  "db:Bethlehem 2022": {
   "doi": "10.1038/s41586-022-04554-y",
   "metin": "Bethlehem RAI, Seidlitz J, White SR, Vogel JW, Anderson KM, Adamson C, ve ark. Brain charts for the human lifespan. Nature. 2022;604(7906):525–533."
  },
+ "db:Bishop 2017": {
+  "doi": "10.1111/jcpp.12721",
+  "metin": "Bishop DVM, Snowling MJ, Thompson PA, Greenhalgh T, CATALISE-2 consortium. Phase 2 of CATALISE: a multinational and multidisciplinary Delphi consensus study of problems with language development: Terminology. J Child Psychol Psychiatry. 2017;58(10):1068–1080."
+ },
  "db:Border 2019": {
   "doi": "10.1176/appi.ajp.2018.18070881",
   "metin": "Border R, Johnson EC, Evans LM, Smolen A, Berley N, Sullivan PF, ve ark. No Support for Historical Candidate Gene or Candidate Gene-by-Interaction Hypotheses for Major Depression Across Multiple Large Samples. Am J Psychiatry. 2019;176(5):376–387."
+ },
+ "db:Brown 2019": {
+  "doi": "10.1002/cpt.1409",
+  "metin": "Brown JT, Bishop JR, Sangkuhl K, Nurmi EL, Mueller DJ, Dinh JC, ve ark. Clinical Pharmacogenetics Implementation Consortium Guideline for Cytochrome P450 (CYP)2D6 Genotype and Atomoxetine Therapy. Clin Pharmacol Ther. 2019;106(1):94–102."
+ },
+ "db:Brushe 2024": {
+  "doi": "10.1001/jamapediatrics.2023.6790",
+  "metin": "Brushe ME, Haag DG, Melhuish EC, Reilly S, Gregory T. Screen Time and Parent-Child Talk When Children Are Aged 12 to 36 Months. JAMA Pediatr. 2024;178(4):369–375."
+ },
+ "db:Bushman 1990": {
+  "doi": "10.1037/0033-2909.107.3.341",
+  "metin": "Bushman BJ, Cooper HM. Effects of alcohol on human aggression: an integrative research review. Psychol Bull. 1990;107(3):341–54."
+ },
+ "db:Byrd 2014": {
+  "doi": "10.1016/j.biopsych.2013.05.004",
+  "metin": "Byrd AL, Manuck SB. MAOA, childhood maltreatment, and antisocial behavior: meta-analysis of a gene-environment interaction. Biol Psychiatry. 2014;75(1):9–17."
+ },
+ "db:Camerer 2018": {
+  "doi": "10.1038/s41562-018-0399-z",
+  "metin": "Camerer CF, Dreber A, Holzmeister F, Ho TH, Huber J, Johannesson M, ve ark. Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. Nat Hum Behav. 2018;2(9):637–644."
  },
  "db:Carney 2010": {
   "doi": "10.1177/0956797610383437",
   "metin": "Carney DR, Cuddy AJ, Yap AJ. Power posing: brief nonverbal displays affect neuroendocrine levels and risk tolerance. Psychol Sci. 2010;21(10):1363–8."
  },
+ "db:Casarotto 2021": {
+  "doi": "10.1016/j.cell.2021.01.034",
+  "metin": "Casarotto PC, Girych M, Fred SM, Kovaleva V, Moliner R, Enkavi G, ve ark. Antidepressant drugs act by directly binding to TRKB neurotrophin receptors. Cell. 2021;184(5):1299–1313.e19."
+ },
+ "db:Casey 2008": {
+  "doi": "10.1196/annals.1440.010",
+  "metin": "Casey BJ, Jones RM, Hare TA. The adolescent brain. Ann N Y Acad Sci. 2008;1124:111–26."
+ },
+ "db:Caspi 2002": {
+  "doi": "10.1126/science.1072290",
+  "metin": "Caspi A, McClay J, Moffitt TE, Mill J, Martin J, Craig IW, ve ark. Role of genotype in the cycle of violence in maltreated children. Science. 2002;297(5582):851–4."
+ },
  "db:Caspi 2014": {
   "doi": "10.1177/2167702613497473",
   "metin": "Caspi A, Houts RM, Belsky DW, Goldman-Mellor SJ, Harrington H, Israel S, ve ark. The p Factor: One General Psychopathology Factor in the Structure of Psychiatric Disorders? Clin Psychol Sci. 2014;2(2):119–137."
  },
+ "db:Cernoch 1985": {
+  "doi": "",
+  "metin": "Cernoch JM, Porter RH. Recognition of maternal axillary odors by infants. Child Dev. 1985;56(6):1593–8. PMID: 4075877"
+ },
+ "db:Cesario 2020": {
+  "doi": "10.1177/0963721420917687",
+  "metin": "Cesario J, Johnson DJ, Eisthen HL. Your brain is not an onion with a tiny reptile inside. Curr Dir Psychol Sci. 2020."
+ },
+ "db:Chappelle 2014": {
+  "doi": "10.7205/MILMED-D-13-00501",
+  "metin": "Chappelle WL, McDonald KD, Prince L, Goodman T, Ray-Sannerud BN, Thompson W. Symptoms of psychological distress and post-traumatic stress disorder in United States Air Force \"drone\" operators. Mil Med. 2014;179(8 Suppl):63–70."
+ },
+ "db:Chein 2011": {
+  "doi": "10.1111/j.1467-7687.2010.01035.x",
+  "metin": "Chein J, Albert D, O'Brien L, Uckert K, Steinberg L. Peers increase adolescent risk taking by enhancing activity in the brain's reward circuitry. Dev Sci. 2011;14(2):F1–10."
+ },
+ "db:Chen 2018": {
+  "doi": "10.1093/aje/kwy142",
+  "metin": "Chen Y, VanderWeele TJ. Associations of Religious Upbringing With Subsequent Health and Well-Being From Adolescence to Young Adulthood: An Outcome-Wide Analysis. Am J Epidemiol. 2018;187(11):2355–2364."
+ },
  "db:Cipriano 2023": {
   "doi": "10.1111/cdev.13968",
   "metin": "Cipriano C, Strambler MJ, Naples LH, Ha C, Kirk M, Wood M, ve ark. The state of evidence for social and emotional learning: A contemporary meta-analysis of universal school-based SEL interventions. Child Dev. 2023;94(5):1181–1204."
+ },
+ "db:Cohen 1996": {
+  "doi": "10.1037//0022-3514.70.5.945",
+  "metin": "Cohen D, Nisbett RE, Bowdle BF, Schwarz N. Insult, aggression, and the southern culture of honor: an \"experimental ethnography\". J Pers Soc Psychol. 1996;70(5):945–59."
+ },
+ "db:Coles 2022": {
+  "doi": "10.1038/s41562-022-01458-9",
+  "metin": "Coles NA, March DS, Marmolejo-Ramos F, Larsen JT, Arinze NC, Ndukaihe ILG, ve ark. A multi-lab test of the facial feedback hypothesis by the Many Smiles Collaboration. Nat Hum Behav. 2022;6(12):1731–1742."
  },
  "db:Cook 1989": {
   "doi": "10.1037//0021-843x.98.4.448",
@@ -47,17 +131,73 @@
   "doi": "10.1016/S2215-0366(18)30269-4",
   "metin": "Cortese S, Adamo N, Del Giovane C, Mohr-Jensen C, Hayes AJ, Carucci S, ve ark. Comparative efficacy and tolerability of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: a systematic review and network meta-analysis. Lancet Psychiatry. 2018;5(9):727–738."
  },
+ "db:Cristofori 2016": {
+  "doi": "10.1016/j.neuropsychologia.2015.11.021",
+  "metin": "Cristofori I, Bulbulia J, Shaver JH, Wilson M, Krueger F, Grafman J. Neural correlates of mystical experience. Neuropsychologia. 2016;80:212–220."
+ },
+ "db:Croy 2020": {
+  "doi": "10.1098/rspb.2020.1800",
+  "metin": "Croy I, Ritschel G, Kreßner-Kiel D, Schäfer L, Hummel T, Havlíček J, ve ark. Marriage does not relate to major histocompatibility complex: a genetic analysis based on 3691 couples. Proc Biol Sci. 2020;287(1936):20201800."
+ },
+ "db:Culverhouse 2018": {
+  "doi": "10.1038/mp.2017.44",
+  "metin": "Culverhouse RC, Saccone NL, Horton AC, Ma Y, Anstey KJ, Banaschewski T, ve ark. Collaborative meta-analysis finds no evidence of a strong interaction between stress and 5-HTTLPR genotype contributing to the development of depression. Mol Psychiatry. 2018;23(1):133–142."
+ },
  "db:Dalmau 2008": {
   "doi": "10.1016/S1474-4422(08)70224-2",
   "metin": "Dalmau J, Gleichman AJ, Hughes EG, Rossi JE, Peng X, Lai M, ve ark. Anti-NMDA-receptor encephalitis: case series and analysis of the effects of antibodies. Lancet Neurol. 2008;7(12):1091–8."
+ },
+ "db:Damasio 1994": {
+  "doi": "10.1126/science.8178168",
+  "metin": "Damasio H, Grabowski T, Frank R, Galaburda AM, Damasio AR. The return of Phineas Gage: clues about the brain from the skull of a famous patient. Science. 1994;264(5162):1102–5."
+ },
+ "db:De Dreu 2011": {
+  "doi": "10.1073/pnas.1015316108",
+  "metin": "De Dreu CK, Greer LL, Van Kleef GA, Shalvi S, Handgraaf MJ. Oxytocin promotes human ethnocentrism. Proc Natl Acad Sci U S A. 2011;108(4):1262–6."
  },
  "db:Declerck 2020": {
   "doi": "10.1038/s41562-020-0878-x",
   "metin": "Declerck CH, Boone C, Pauwels L, Vogt B, Fehr E. A registered replication study on oxytocin and trust. Nat Hum Behav. 2020;4(6):646–655."
  },
+ "db:Deligiannidis 2023": {
+  "doi": "10.1176/appi.ajp.20220785",
+  "metin": "Deligiannidis KM, Meltzer-Brody S, Maximos B, Peeper EQ, Freeman M, Lasser R, ve ark. Zuranolone for the Treatment of Postpartum Depression. Am J Psychiatry. 2023;180(9):668–675."
+ },
+ "db:Demontis 2023": {
+  "doi": "10.1038/s41588-022-01285-8",
+  "metin": "Demontis D, Walters GB, Athanasiadis G, Walters R, Therrien K, Nielsen TT, ve ark. Genome-wide analyses of ADHD identify 27 risk loci, refine the genetic architecture and implicate several cognitive domains. Nat Genet. 2023;55(2):198–208."
+ },
+ "db:Di Forti 2019": {
+  "doi": "10.1016/S2215-0366(19)30048-3",
+  "metin": "Di Forti M, Quattrone D, Freeman TP, Tripoli G, Gayer-Anderson C, Quigley H, ve ark. The contribution of cannabis use to variation in the incidence of psychotic disorder across Europe (EU-GEI): a multicentre case-control study. Lancet Psychiatry. 2019;6(5):427–436."
+ },
  "db:Dodge 2015": {
   "doi": "10.1176/appi.ajp.2014.13060786",
   "metin": "Dodge KA, Bierman KL, Coie JD, Greenberg MT, Lochman JE, McMahon RJ, ve ark. Impact of early intervention on psychopathology, crime, and well-being at age 25. Am J Psychiatry. 2015;172(1):59–70."
+ },
+ "db:Duke 2013": {
+  "doi": "10.1037/a0031544",
+  "metin": "Duke AA, Bègue L, Bell R, Eisenlohr-Moul T. Revisiting the serotonin-aggression relation in humans: a meta-analysis. Psychol Bull. 2013;139(5):1148–72."
+ },
+ "db:Dumitru 2025": {
+  "doi": "10.1126/science.adu9575",
+  "metin": "Dumitru I, Paterlini M, Zamboni M, Ziegenhain C, Giatrellis S, Saghaleyni R, ve ark. Identification of proliferating neural progenitors in the adult human hippocampus. Science. 2025;389(6755):58–63."
+ },
+ "db:Dwyer 2021": {
+  "doi": "10.1176/appi.ajp.2020.20010018",
+  "metin": "Dwyer JB, Landeros-Weisenberger A, Johnson JA, Londono Tobon A, Flores JM, Nasir M, ve ark. Efficacy of Intravenous Ketamine in Adolescent Treatment-Resistant Depression: A Randomized Midazolam-Controlled Trial. Am J Psychiatry. 2021;178(4):352–362."
+ },
+ "db:ENCODE 2012": {
+  "doi": "10.1038/nature11247",
+  "metin": "ENCODE Project Consortium. An integrated encyclopedia of DNA elements in the human genome. Nature. 2012;489(7414):57–74."
+ },
+ "db:Eisenegger 2010": {
+  "doi": "10.1038/nature08711",
+  "metin": "Eisenegger C, Naef M, Snozzi R, Heinrichs M, Fehr E. Prejudice and truth about the effect of testosterone on human bargaining behaviour. Nature. 2010;463(7279):356–9."
+ },
+ "db:Faraone 2019": {
+  "doi": "10.1038/s41380-018-0070-0",
+  "metin": "Faraone SV, Larsson H. Genetics of attention deficit hyperactivity disorder. Mol Psychiatry. 2019;24(4):562–575."
  },
  "db:Farhat 2025": {
   "doi": "10.1016/S2215-0366(25)00062-8",
@@ -79,25 +219,77 @@
   "doi": "10.1126/science.1077349",
   "metin": "Fiorillo CD, Tobler PN, Schultz W. Discrete coding of reward probability and uncertainty by dopamine neurons. Science. 2003;299(5614):1898–902."
  },
+ "db:Fonagy 2018": {
+  "doi": "10.1016/S2215-0366(18)30001-4",
+  "metin": "Fonagy P, Butler S, Cottrell D, Scott S, Pilling S, Eisler I, ve ark. Multisystemic therapy versus management as usual in the treatment of adolescent antisocial behaviour (START): a pragmatic, randomised controlled, superiority trial. Lancet Psychiatry. 2018;5(2):119–133."
+ },
+ "db:Freeman 2009": {
+  "doi": "10.1111/j.1469-8749.2008.03135.x",
+  "metin": "Freeman RD, Zinner SH, Müller-Vahl KR, Fast DK, Burd LJ, Kano Y, ve ark. Coprophenomena in Tourette syndrome. Dev Med Child Neurol. 2009;51(3):218–27."
+ },
  "db:Frick 2014": {
   "doi": "10.1037/a0033076",
   "metin": "Frick PJ, Ray JV, Thornton LC, Kahn RE. Can callous-unemotional traits enhance the understanding, diagnosis, and treatment of serious conduct problems in children and adolescents? A comprehensive review. Psychol Bull. 2014;140(1):1–57."
+ },
+ "db:Gallup 1970": {
+  "doi": "10.1126/science.167.3914.86",
+  "metin": "Gallup GG Jr. Chimpanzees: self-recognition. Science. 1970;167(3914):86–7."
+ },
+ "db:Galton 1907": {
+  "doi": "",
+  "metin": "Galton F. Vox populi. Nature. 1907;75:450."
+ },
+ "db:Ganna 2019": {
+  "doi": "10.1126/science.aat7693",
+  "metin": "Ganna A, Verweij KJH, Nivard MG, Maier R, Wedow R, Busch AS, ve ark. Large-scale GWAS reveals insights into the genetic architecture of same-sex sexual behavior. Science. 2019;365(6456)."
  },
  "db:Gardner 2005": {
   "doi": "10.1037/0012-1649.41.4.625",
   "metin": "Gardner M, Steinberg L. Peer influence on risk taking, risk preference, and risky decision making in adolescence and adulthood: an experimental study. Dev Psychol. 2005;41(4):625–35."
  },
+ "db:Goodyear 2025": {
+  "doi": "10.1016/j.lanepe.2025.101211",
+  "metin": "Goodyear VA, Randhawa A, Adab P, Al-Janabi H, Fenton S, Jones K, ve ark. School phone policies and their association with mental wellbeing, phone use, and social media use (SMART Schools): a cross-sectional observational study. Lancet Reg Health Eur. 2025;51:101211."
+ },
+ "db:Gordon 2023": {
+  "doi": "10.1038/s41586-023-05964-2",
+  "metin": "Gordon EM, Chauvin RJ, Van AN, Rajesh A, Nielsen A, Newbold DJ, ve ark. A somato-cognitive action network alternates with effector regions in motor cortex. Nature. 2023;617(7960):351–359."
+ },
+ "db:Gould 1979": {
+  "doi": "10.1098/rspb.1979.0086",
+  "metin": "Gould SJ, Lewontin RC. The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme. Proc R Soc Lond B Biol Sci. 1979;205(1161):581–98."
+ },
+ "db:Graur 2013": {
+  "doi": "10.1093/gbe/evt028",
+  "metin": "Graur D, Zheng Y, Price N, Azevedo RB, Zufall RA, Elhaik E. On the immortality of television sets: \"function\" in the human genome according to the evolution-free gospel of ENCODE. Genome Biol Evol. 2013;5(3):578–90."
+ },
  "db:Grotzinger 2026": {
   "doi": "10.1038/s41586-025-09820-3",
   "metin": "Grotzinger AD, Werme J, Peyrot WJ, Frei O, de Leeuw C, Bicks LK, ve ark. Mapping the genetic landscape across 14 psychiatric disorders. Nature. 2026;649(8096):406–415."
+ },
+ "db:Gunnar 2019": {
+  "doi": "10.1073/pnas.1909699116",
+  "metin": "Gunnar MR, DePasquale CE, Reid BM, Donzella B, Miller BS. Pubertal stress recalibration reverses the effects of early life stress in postinstitutionalized children. Proc Natl Acad Sci U S A. 2019;116(48):23984–23988."
+ },
+ "db:Haig 1993": {
+  "doi": "10.1086/418300",
+  "metin": "Haig D. Genetic conflicts in human pregnancy. Q Rev Biol. 1993;68(4):495–532."
  },
  "db:Hamilton 1964": {
   "doi": "10.1016/0022-5193(64)90038-4",
   "metin": "Hamilton WD. The genetical evolution of social behaviour. I. J Theor Biol. 1964;7(1):1–16."
  },
+ "db:Harris 2024": {
+  "doi": "10.1007/s10567-023-00464-1",
+  "metin": "Harris JL, Swanson B, Petersen IT. A Developmentally Informed Systematic Review and Meta-Analysis of the Strength of General Psychopathology in Childhood and Adolescence. Clin Child Fam Psychol Rev. 2024;27(1):130–164."
+ },
  "db:Hartshorne 2018": {
   "doi": "10.1016/j.cognition.2018.04.007",
   "metin": "Hartshorne JK, Tenenbaum JB, Pinker S. A critical period for second language acquisition: Evidence from 2/3 million English speakers. Cognition. 2018;177:263–277."
+ },
+ "db:Hauser 2017": {
+  "doi": "10.1176/appi.ajp.2017.16091037",
+  "metin": "Hauser RA, Factor SA, Marder SR, Knesevich MA, Ramirez PM, Jimenez R, ve ark. KINECT 3: A Phase 3 Randomized, Double-Blind, Placebo-Controlled Trial of Valbenazine for Tardive Dyskinesia. Am J Psychiatry. 2017;174(5):476–484."
  },
  "db:Heijmans 2008": {
   "doi": "10.1073/pnas.0806560105",
@@ -107,29 +299,85 @@
   "doi": "10.1016/S0140-6736(21)00582-1",
   "metin": "Heilmann A, Mehay A, Watt RG, Kelly Y, Durrant JE, van Turnhout J, ve ark. Physical punishment and child outcomes: a narrative review of prospective studies. Lancet. 2021;398(10297):355–364."
  },
+ "db:Hilker 2018": {
+  "doi": "10.1016/j.biopsych.2017.08.017",
+  "metin": "Hilker R, Helenius D, Fagerlund B, Skytthe A, Christensen K, Werge TM, ve ark. Heritability of Schizophrenia and Schizophrenia Spectrum Based on the Nationwide Danish Twin Register. Biol Psychiatry. 2018;83(6):492–498."
+ },
+ "db:Horsthemke 2018": {
+  "doi": "10.1038/s41467-018-05445-5",
+  "metin": "Horsthemke B. A critical view on transgenerational epigenetic inheritance in humans. Nat Commun. 2018;9(1):2973."
+ },
  "db:Hostinar 2015": {
   "doi": "10.1111/desc.12195",
   "metin": "Hostinar CE, Johnson AE, Gunnar MR. Parent support is less effective in buffering cortisol stress reactivity for adolescents compared to children. Dev Sci. 2015;18(2):281–97."
+ },
+ "db:Howard 2000": {
+  "doi": "10.1176/appi.ajp.157.2.172",
+  "metin": "Howard R, Rabins PV, Seeman MV, Jeste DV. Late-onset schizophrenia and very-late-onset schizophrenia-like psychosis: an international consensus. The International Late-Onset Schizophrenia Group. Am J Psychiatry. 2000;157(2):172–8."
  },
  "db:Howes 2012": {
   "doi": "10.1001/archgenpsychiatry.2012.169",
   "metin": "Howes OD, Kambeitz J, Kim E, Stahl D, Slifstein M, Abi-Dargham A, ve ark. The nature of dopamine dysfunction in schizophrenia and what this means for treatment. Arch Gen Psychiatry. 2012;69(8):776–86."
  },
+ "db:Hrdy 1974": {
+  "doi": "10.1159/000155616",
+  "metin": "Hrdy SB. Male-male competition and infanticide among the langurs (Presbytis entellus) of Abu, Rajasthan. Folia Primatol (Basel). 1974;22(1):19–58."
+ },
+ "db:Hughes 2017": {
+  "doi": "10.1016/S2468-2667(17)30118-4",
+  "metin": "Hughes K, Bellis MA, Hardcastle KA, Sethi D, Butchart A, Mikton C, ve ark. The effect of multiple adverse childhood experiences on health: a systematic review and meta-analysis. Lancet Public Health. 2017;2(8):e356–e366."
+ },
  "db:Icenogle 2019": {
   "doi": "10.1037/lhb0000315",
   "metin": "Icenogle G, Steinberg L, Duell N, Chein J, Chang L, Chaudhary N, ve ark. Adolescents' cognitive capacity reaches adult levels prior to their psychosocial maturity: Evidence for a \"maturity gap\" in a multinational, cross-sectional sample. Law Hum Behav. 2019;43(1):69–85."
+ },
+ "db:Joel 2015": {
+  "doi": "10.1073/pnas.1509654112",
+  "metin": "Joel D, Berman Z, Tavor I, Wexler N, Gaber O, Stein Y, ve ark. Sex beyond the genitalia: The human brain mosaic. Proc Natl Acad Sci U S A. 2015;112(50):15468–73."
+ },
+ "db:Kane 2016": {
+  "doi": "10.1176/appi.ajp.2015.15050632",
+  "metin": "Kane JM, Robinson DG, Schooler NR, Mueser KT, Penn DL, Rosenheck RA, ve ark. Comprehensive Versus Usual Community Care for First-Episode Psychosis: 2-Year Outcomes From the NIMH RAISE Early Treatment Program. Am J Psychiatry. 2016;173(4):362–72."
+ },
+ "db:Kaul 2024": {
+  "doi": "10.1016/S0140-6736(23)02190-6",
+  "metin": "Kaul I, Sawchak S, Correll CU, Kakar R, Breier A, Zhu H, ve ark. Efficacy and safety of the muscarinic receptor agonist KarXT (xanomeline-trospium) in schizophrenia (EMERGENT-2) in the USA: results from a randomised, double-blind, placebo-controlled, flexible-dose phase 3 trial. Lancet. 2024;403(10422):160–170."
  },
  "db:Kaul 2026": {
   "doi": "10.1176/appi.ajp.20241186",
   "metin": "Kaul I, Claxton A, Sauder C, Patel T, Chaturvedi S, Brown D, ve ark. Long-Term Safety and Efficacy of Xanomeline and Trospium Chloride in Schizophrenia: A 52-Week Open-Label Extension Trial. Am J Psychiatry. 2026;183(3):183–192."
  },
+ "db:Keefe 2025": {
+  "doi": "10.1016/S2215-0366(25)00296-2",
+  "metin": "Keefe RSE, Harvey PD, Correll CU, Falkai P, Hashimoto N, Klein H, ve ark. Efficacy and safety of iclepertin for cognitive impairment associated with schizophrenia (CONNEX programme): results from three phase 3 randomised controlled trials. Lancet Psychiatry. 2025;12(12):906–920."
+ },
+ "db:Kety 1994": {
+  "doi": "10.1001/archpsyc.1994.03950060006001",
+  "metin": "Kety SS, Wender PH, Jacobsen B, Ingraham LJ, Jansson L, Faber B, ve ark. Mental illness in the biological and adoptive relatives of schizophrenic adoptees. Replication of the Copenhagen Study in the rest of Denmark. Arch Gen Psychiatry. 1994;51(6):442–55."
+ },
+ "db:Kidd 2013": {
+  "doi": "10.1016/j.cognition.2012.08.004",
+  "metin": "Kidd C, Palmeri H, Aslin RN. Rational snacking: young children's decision-making on the marshmallow task is moderated by beliefs about environmental reliability. Cognition. 2013;126(1):109–14."
+ },
  "db:Kieling 2024": {
   "doi": "10.1001/jamapsychiatry.2023.5051",
   "metin": "Kieling C, Buchweitz C, Caye A, Silvani J, Ameis SH, Brunoni AR, ve ark. Worldwide Prevalence and Disability From Mental Disorders Across Childhood and Adolescence: Evidence From the Global Burden of Disease Study. JAMA Psychiatry. 2024;81(4):347–356."
  },
+ "db:King 2023": {
+  "doi": "10.1176/appi.ajp.20220672",
+  "metin": "King LS, Guyon-Harris KL, Valadez EA, Radulescu A, Fox NA, Nelson CA, ve ark. A Comprehensive Multilevel Analysis of the Bucharest Early Intervention Project: Causal Effects on Recovery From Early Severe Deprivation. Am J Psychiatry. 2023;180(8):573–583."
+ },
  "db:Kosfeld 2005": {
   "doi": "10.1038/nature03701",
   "metin": "Kosfeld M, Heinrichs M, Zak PJ, Fischbacher U, Fehr E. Oxytocin increases trust in humans. Nature. 2005;435(7042):673–6."
+ },
+ "db:Kristensen 2007": {
+  "doi": "10.1126/science.1141493",
+  "metin": "Kristensen P, Bjerkedal T. Explaining the relation between birth order and intelligence. Science. 2007;316(5832):1717."
+ },
+ "db:Larmuseau 2016": {
+  "doi": "10.1016/j.tree.2016.03.004",
+  "metin": "Larmuseau MHD, Matthijs K, Wenseleers T. Cuckolded Fathers Rare in Human Populations. Trends Ecol Evol. 2016;31(5):327–329."
  },
  "db:Larsson 2012": {
   "doi": "10.1111/j.1469-7610.2011.02467.x",
@@ -139,13 +387,33 @@
   "doi": "10.1056/NEJMoa1806828",
   "metin": "Layton TJ, Barnett ML, Hicks TR, Jena AB. Attention Deficit-Hyperactivity Disorder and Month of School Enrollment. N Engl J Med. 2018;379(22):2122–2130."
  },
+ "db:Lichtenstein 2012": {
+  "doi": "10.1056/NEJMoa1203241",
+  "metin": "Lichtenstein P, Halldner L, Zetterqvist J, Sjölander A, Serlachius E, Fazel S, ve ark. Medication for attention deficit-hyperactivity disorder and criminality. N Engl J Med. 2012;367(21):2006–14."
+ },
+ "db:Lim 2004": {
+  "doi": "10.1038/nature02539",
+  "metin": "Lim MM, Wang Z, Olazábal DE, Ren X, Terwilliger EF, Young LJ. Enhanced partner preference in a promiscuous species by manipulating the expression of a single gene. Nature. 2004;429(6993):754–7."
+ },
+ "db:Litman 2025": {
+  "doi": "10.1038/s41588-025-02224-z",
+  "metin": "Litman A, Sauerwald N, Green Snyder L, Foss-Feig J, Park CY, Hao Y, ve ark. Decomposition of phenotypic heterogeneity in autism reveals underlying genetic programs. Nat Genet. 2025;57(7):1611–1619."
+ },
  "db:LoBue 2008": {
   "doi": "10.1111/j.1467-9280.2008.02081.x",
   "metin": "LoBue V, DeLoache JS. Detecting the snake in the grass: attention to fear-relevant stimuli by adults and young children. Psychol Sci. 2008;19(3):284–9."
  },
+ "db:Logue 2018": {
+  "doi": "10.1016/j.biopsych.2017.09.006",
+  "metin": "Logue MW, van Rooij SJH, Dennis EL, Davis SL, Hayes JP, Stevens JS, ve ark. Smaller Hippocampal Volume in Posttraumatic Stress Disorder: A Multisite ENIGMA-PGC Study: Subcortical Volumetry Results From Posttraumatic Stress Disorder Consortia. Biol Psychiatry. 2018;83(3):244–253."
+ },
  "db:Loomes 2017": {
   "doi": "10.1016/j.jaac.2017.03.013",
   "metin": "Loomes R, Hull L, Mandy WPL. What Is the Male-to-Female Ratio in Autism Spectrum Disorder? A Systematic Review and Meta-Analysis. J Am Acad Child Adolesc Psychiatry. 2017;56(6):466–474."
+ },
+ "db:Lurie 2025": {
+  "doi": "10.1111/desc.70043",
+  "metin": "Lurie LA, Gruhn MA, Garrisi K, McLaughlin KA, Humphreys KL, Zeanah CH, ve ark. Caregiving Quality and Adolescent Cortical Structure: A 16-Year Longitudinal Study of Institutionally Reared Youth. Dev Sci. 2025;28(5):e70043."
  },
  "db:Madigan 2023": {
   "doi": "10.1002/wps.21122",
@@ -159,9 +427,29 @@
   "doi": "10.1038/s41586-022-04492-9",
   "metin": "Marek S, Tervo-Clemmens B, Calabro FJ, Montez DF, Kay BP, Hatoum AS, ve ark. Reproducible brain-wide association studies require thousands of individuals. Nature. 2022;603(7902):654–660."
  },
+ "db:Mataix-Cols 2015": {
+  "doi": "10.1001/jamapsychiatry.2015.0627",
+  "metin": "Mataix-Cols D, Isomura K, Pérez-Vigil A, Chang Z, Rück C, Larsson KJ, ve ark. Familial Risks of Tourette Syndrome and Chronic Tic Disorders. A Population-Based Cohort Study. JAMA Psychiatry. 2015;72(8):787–93."
+ },
+ "db:McClintock 1971": {
+  "doi": "10.1038/229244a0",
+  "metin": "McClintock MK. Menstrual synchorony and suppression. Nature. 1971;229(5282):244–5."
+ },
  "db:McDonald 2024": {
   "doi": "10.1017/S0033291724000990",
   "metin": "McDonald AJ, Kurdyak P, Rehm J, Roerecke M, Bondy SJ. Age-dependent association of cannabis use with risk of psychotic disorder. Psychol Med. 2024;54(11):2926–2936."
+ },
+ "db:McGrath 2008": {
+  "doi": "10.1093/epirev/mxn001",
+  "metin": "McGrath J, Saha S, Chant D, Welham J. Schizophrenia: a concise overview of incidence, prevalence, and mortality. Epidemiol Rev. 2008;30:67–76."
+ },
+ "db:McLaughlin 2015": {
+  "doi": "10.1073/pnas.1423363112",
+  "metin": "McLaughlin KA, Sheridan MA, Tibu F, Fox NA, Zeanah CH, Nelson CA. Causal effects of the early caregiving environment on development of stress response systems in children. Proc Natl Acad Sci U S A. 2015;112(18):5637–42."
+ },
+ "db:Meltzer-Brody 2018": {
+  "doi": "10.1016/S0140-6736(18)31551-4",
+  "metin": "Meltzer-Brody S, Colquhoun H, Riesenberg R, Epperson CN, Deligiannidis KM, Rubinow DR, ve ark. Brexanolone injection in post-partum depression: two multicentre, double-blind, randomised, placebo-controlled, phase 3 trials. Lancet. 2018;392(10152):1058–1070."
  },
  "db:Meyer-Lindenberg 2005": {
   "doi": "10.1038/nn1494",
@@ -179,6 +467,18 @@
   "doi": "10.1038/s41380-022-01661-0",
   "metin": "Moncrieff J, Cooper RE, Stockmann T, Amendola S, Hengartner MP, Horowitz MA. The serotonin theory of depression: a systematic umbrella review of the evidence. Mol Psychiatry. 2023;28(8):3243–3256."
  },
+ "db:Mousley 2025": {
+  "doi": "10.1038/s41467-025-65974-8",
+  "metin": "Mousley A, Bethlehem RAI, Yeh FC, Astle DE. Topological turning points across the human lifespan. Nat Commun. 2025;16(1):10055."
+ },
+ "db:Mujica-Parodi 2009": {
+  "doi": "10.1371/journal.pone.0006415",
+  "metin": "Mujica-Parodi LR, Strey HH, Frederick B, Savoy R, Cox D, Botanov Y, ve ark. Chemosensory cues to conspecific emotional stress activate amygdala in humans. PLoS One. 2009;4(7):e6415."
+ },
+ "db:Nagata 2025": {
+  "doi": "10.1001/jamanetworkopen.2025.11704",
+  "metin": "Nagata JM, Otmar CD, Shim J, Balasubramanian P, Cheng CM, Li EJ, ve ark. Social Media Use and Depressive Symptoms During Early Adolescence. JAMA Netw Open. 2025;8(5):e2511704."
+ },
  "db:Noetel 2024": {
   "doi": "10.1136/bmj-2023-075847",
   "metin": "Noetel M, Sanders T, Gallardo-Gómez D, Taylor P, Del Pozo Cruz B, van den Hoek D, ve ark. Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ. 2024;384:e075847."
@@ -186,6 +486,14 @@
  "db:Norbury 2016": {
   "doi": "10.1111/jcpp.12573",
   "metin": "Norbury CF, Gooch D, Wray C, Baird G, Charman T, Simonoff E, ve ark. The impact of nonverbal ability on prevalence and clinical presentation of language disorder: evidence from a population study. J Child Psychol Psychiatry. 2016;57(11):1247–1257."
+ },
+ "db:Norenzayan 2012": {
+  "doi": "10.1371/journal.pone.0036880",
+  "metin": "Norenzayan A, Gervais WM, Trzesniewski KH. Mentalizing deficits constrain belief in a personal God. PLoS One. 2012;7(5):e36880."
+ },
+ "db:Norenzayan 2016": {
+  "doi": "10.1017/S0140525X14001356",
+  "metin": "Norenzayan A, Shariff AF, Gervais WM, Willard AK, McNamara RA, Slingerland E, ve ark. The cultural evolution of prosocial religions. Behav Brain Sci. 2016;39:e1."
  },
  "db:Okbay 2022": {
   "doi": "10.1038/s41588-022-01016-z",
@@ -199,29 +507,93 @@
   "doi": "10.1038/s41562-018-0506-1",
   "metin": "Orben A, Przybylski AK. The association between adolescent well-being and digital technology use. Nat Hum Behav. 2019;3(2):173–182."
  },
+ "db:Orzack 2015": {
+  "doi": "10.1073/pnas.1416546112",
+  "metin": "Orzack SH, Stubblefield JW, Akmaev VR, Colls P, Munné S, Scholl T, ve ark. The human sex ratio from conception to birth. Proc Natl Acad Sci U S A. 2015;112(16):E2102–11."
+ },
+ "db:PGC-MDD 2025": {
+  "doi": "10.1016/j.cell.2024.12.002",
+  "metin": "PGC-MDD (Major Depressive Disorder Working Group of the Psychiatric Genomics Consortium). Trans-ancestry genome-wide study of depression identifies 697 associations implicating cell types and pharmacotherapies. Cell. 2025;188(3):640–652.e9."
+ },
+ "db:Pearson 2013": {
+  "doi": "10.1001/jamapsychiatry.2013.2163",
+  "metin": "Pearson RM, Evans J, Kounali D, Lewis G, Heron J, Ramchandani PG, ve ark. Maternal depression during pregnancy and the postnatal period: risks and possible mechanisms for offspring depression at age 18 years. JAMA Psychiatry. 2013;70(12):1312–9."
+ },
  "db:Petitto 1991": {
   "doi": "10.1126/science.2006424",
   "metin": "Petitto LA, Marentette PF. Babbling in the manual mode: evidence for the ontogeny of language. Science. 1991;251(5000):1493–6."
+ },
+ "db:Pettigrew 2006": {
+  "doi": "10.1037/0022-3514.90.5.751",
+  "metin": "Pettigrew TF, Tropp LR. A meta-analytic test of intergroup contact theory. J Pers Soc Psychol. 2006;90(5):751–83."
+ },
+ "db:Pfeifer 2012": {
+  "doi": "10.1016/j.tics.2012.04.011",
+  "metin": "Pfeifer JH, Allen NB. Arrested development? Reconsidering dual-systems models of brain function in adolescence and disorders. Trends Cogn Sci. 2012;16(6):322–9."
  },
  "db:Pham 2018": {
   "doi": "10.1176/appi.ajp.2018.17070792",
   "metin": "Pham S, Porta G, Biernesser C, Walker Payne M, Iyengar S, Melhem N, ve ark. The Burden of Bereavement: Early-Onset Depression and Impairment in Youths Bereaved by Sudden Parental Death in a 7-Year Prospective Study. Am J Psychiatry. 2018;175(9):887–896."
  },
+ "db:Philpot 2020": {
+  "doi": "10.1037/amp0000469",
+  "metin": "Philpot R, Liebst LS, Levine M, Bernasco W, Lindegaard MR. Would I be helped? Cross-national CCTV footage shows that intervention is the norm in public conflicts. Am Psychol. 2020;75(1):66–75."
+ },
+ "db:Pickles 2016": {
+  "doi": "10.1016/S0140-6736(16)31229-6",
+  "metin": "Pickles A, Le Couteur A, Leadbitter K, Salomone E, Cole-Fletcher R, Tobin H, ve ark. Parent-mediated social communication therapy for young children with autism (PACT): long-term follow-up of a randomised controlled trial. Lancet. 2016;388(10059):2501–2509."
+ },
  "db:Polanczyk 2015": {
   "doi": "10.1111/jcpp.12381",
   "metin": "Polanczyk GV, Salum GA, Sugaya LS, Caye A, Rohde LA. Annual research review: A meta-analysis of the worldwide prevalence of mental disorders in children and adolescents. J Child Psychol Psychiatry. 2015;56(3):345–65."
+ },
+ "db:Popova 2019": {
+  "doi": "10.1176/appi.ajp.2019.19020172",
+  "metin": "Popova V, Daly EJ, Trivedi M, Cooper K, Lane R, Lim P, ve ark. Efficacy and Safety of Flexibly Dosed Esketamine Nasal Spray Combined With a Newly Initiated Oral Antidepressant in Treatment-Resistant Depression: A Randomized Double-Blind Active-Controlled Study. Am J Psychiatry. 2019;176(6):428–438."
+ },
+ "db:Post 1992": {
+  "doi": "10.1176/ajp.149.8.999",
+  "metin": "Post RM. Transduction of psychosocial stress into the neurobiology of recurrent affective disorder. Am J Psychiatry. 1992;149(8):999–1010."
+ },
+ "db:Quiroga 2005": {
+  "doi": "10.1038/nature03687",
+  "metin": "Quiroga RQ, Reddy L, Kreiman G, Koch C, Fried I. Invariant visual representation by single neurons in the human brain. Nature. 2005;435(7045):1102–7."
  },
  "db:Ranehill 2015": {
   "doi": "10.1177/0956797614553946",
   "metin": "Ranehill E, Dreber A, Johannesson M, Leiberg S, Sul S, Weber RA. Assessing the robustness of power posing: no effect on hormones and risk tolerance in a large sample of men and women. Psychol Sci. 2015;26(5):653–6."
  },
+ "db:Rohrer 2015": {
+  "doi": "10.1073/pnas.1506451112",
+  "metin": "Rohrer JM, Egloff B, Schmukle SC. Examining the effects of birth order on personality. Proc Natl Acad Sci U S A. 2015;112(46):14224–9."
+ },
+ "db:Romeo 2018": {
+  "doi": "10.1177/0956797617742725",
+  "metin": "Romeo RR, Leonard JA, Robinson ST, West MR, Mackey AP, Rowe ML, ve ark. Beyond the 30-Million-Word Gap: Children's Conversational Exposure Is Associated With Language-Related Brain Function. Psychol Sci. 2018;29(5):700–710."
+ },
+ "db:Ryan 2010": {
+  "doi": "10.1111/j.1744-6171.2010.00246.x",
+  "metin": "Ryan C, Russell ST, Huebner D, Diaz R, Sanchez J. Family acceptance in adolescence and the health of LGBT young adults. J Child Adolesc Psychiatr Nurs. 2010;23(4):205–13."
+ },
  "db:Saffran 1996": {
   "doi": "10.1126/science.274.5294.1926",
   "metin": "Saffran JR, Aslin RN, Newport EL. Statistical learning by 8-month-old infants. Science. 1996;274(5294):1926–8."
  },
+ "db:Sanchez 2017": {
+  "doi": "10.1371/journal.pone.0172636",
+  "metin": "Sanchez C, Sundermeier B, Gray K, Calin-Jageman RJ. Direct replication of Gervais & Norenzayan (2012): No evidence that analytic thinking decreases religious belief. PLoS One. 2017;12(2):e0172636."
+ },
  "db:Sandbank 2024": {
   "doi": "10.1001/jamapediatrics.2024.1832",
   "metin": "Sandbank M, Pustejovsky JE, Bottema-Beutel K, Caldwell N, Feldman JI, Crowley LaPoint S, ve ark. Determining Associations Between Intervention Amount and Outcomes for Young Autistic Children: A Meta-Analysis. JAMA Pediatr. 2024;178(8):763–773."
+ },
+ "db:Sapolsky 1986": {
+  "doi": "10.1210/edrv-7-3-284",
+  "metin": "Sapolsky RM, Krey LC, McEwen BS. The neuroendocrinology of stress and aging: the glucocorticoid cascade hypothesis. Endocr Rev. 1986;7(3):284–301."
+ },
+ "db:Sapolsky 2004": {
+  "doi": "10.1371/journal.pbio.0020106",
+  "metin": "Sapolsky RM, Share LJ. A pacific culture among wild baboons: its emergence and transmission. PLoS Biol. 2004;2(4):E106."
  },
  "db:Schultz 1997": {
   "doi": "10.1126/science.275.5306.1593",
@@ -243,9 +615,29 @@
   "doi": "10.1073/pnas.0707741104",
   "metin": "Shaw P, Eckstrand K, Sharp W, Blumenthal J, Lerch JP, Greenstein D, ve ark. Attention-deficit/hyperactivity disorder is characterized by a delay in cortical maturation. Proc Natl Acad Sci U S A. 2007;104(49):19649–54."
  },
+ "db:Shaw 2025": {
+  "doi": "10.15585/mmwr.ss7402a1",
+  "metin": "Shaw KA, Williams S, Patrick ME, Valencia-Prado M, Durkin MS, Howerton EM, ve ark. Prevalence and Early Identification of Autism Spectrum Disorder Among Children Aged 4 and 8 Years - Autism and Developmental Disabilities Monitoring Network, 16 Sites, United States, 2022. MMWR Surveill Summ. 2025;74(2):1–22."
+ },
+ "db:Sheikh 2025": {
+  "doi": "10.1136/bmj-2025-088141",
+  "metin": "Sheikh J, Allotey J, Sobhy S, Plana MN, Martinez-Barros H, Naidu H, ve ark. Maternal paracetamol (acetaminophen) use during pregnancy and risk of autism spectrum disorder and attention deficit/hyperactivity disorder in offspring: umbrella review of systematic reviews. BMJ. 2025;391:e088141."
+ },
+ "db:Shor 2009": {
+  "doi": "",
+  "metin": "Shor E, Simchai D. Incest avoidance, the incest taboo, and social cohesion: revisiting Westermarck and the case of the Israeli kibbutzim. Am J Sociol. 2009;114(6):1803–1842."
+ },
  "db:Sikich 2021": {
   "doi": "10.1056/NEJMoa2103583",
   "metin": "Sikich L, Kolevzon A, King BH, McDougle CJ, Sanders KB, Kim SJ, ve ark. Intranasal Oxytocin in Children and Adolescents with Autism Spectrum Disorder. N Engl J Med. 2021;385(16):1462–1473."
+ },
+ "db:Singh 2022": {
+  "doi": "10.1038/s41586-022-04556-w",
+  "metin": "Singh T, Poterba T, Curtis D, Akil H, Al Eissa M, Barchas JD, ve ark. Rare coding variants in ten genes confer substantial risk for schizophrenia. Nature. 2022;604(7906):509–516."
+ },
+ "db:Skinner 1948": {
+  "doi": "10.1037/h0055873",
+  "metin": "Skinner BF. Superstition in the pigeon. J Exp Psychol. 1948;38(2):168–72."
  },
  "db:Smyke 2010": {
   "doi": "10.1111/j.1467-8624.2009.01390.x",
@@ -255,9 +647,25 @@
   "doi": "10.1038/s41380-021-01161-7",
   "metin": "Solmi M, Radua J, Olivola M, Croce E, Soardo L, Salazar de Pablo G, ve ark. Age at onset of mental disorders worldwide: large-scale meta-analysis of 192 epidemiological studies. Mol Psychiatry. 2022;27(1):281–295."
  },
+ "db:Sonuga-Barke 2017": {
+  "doi": "10.1016/S0140-6736(17)30045-4",
+  "metin": "Sonuga-Barke EJS, Kennedy M, Kumsta R, Knights N, Golm D, Rutter M, ve ark. Child-to-adult neurodevelopmental and mental health trajectories after early life deprivation: the young adult follow-up of the longitudinal English and Romanian Adoptees study. Lancet. 2017;389(10078):1539–1548."
+ },
+ "db:Sorrells 2018": {
+  "doi": "10.1038/nature25975",
+  "metin": "Sorrells SF, Paredes MF, Cebrian-Silla A, Sandoval K, Qi D, Kelley KW, ve ark. Human hippocampal neurogenesis drops sharply in children to undetectable levels in adults. Nature. 2018;555(7696):377–381."
+ },
  "db:Srivastava 2019": {
   "doi": "10.1038/s41436-019-0554-6",
   "metin": "Srivastava S, Love-Nichols JA, Dies KA, Ledbetter DH, Martin CL, Chung WK, ve ark. Meta-analysis and multidisciplinary consensus statement: exome sequencing is a first-tier clinical diagnostic test for individuals with neurodevelopmental disorders. Genet Med. 2019;21(11):2413–2421."
+ },
+ "db:St Clair 2005": {
+  "doi": "10.1001/jama.294.5.557",
+  "metin": "St Clair D, Xu M, Wang P, Yu Y, Fang Y, Zhang F, ve ark. Rates of adult schizophrenia following prenatal exposure to the Chinese famine of 1959-1961. JAMA. 2005;294(5):557–62."
+ },
+ "db:Stiffman 2002": {
+  "doi": "10.1542/peds.109.4.615",
+  "metin": "Stiffman MN, Schnitzer PG, Adam P, Kruse RL, Ewigman BG. Household composition and risk of fatal child maltreatment. Pediatrics. 2002;109(4):615–21."
  },
  "db:Sullivan 2000": {
   "doi": "10.1176/appi.ajp.157.10.1552",
@@ -275,13 +683,53 @@
   "doi": "10.1001/archpsyc.63.11.1217",
   "metin": "Taylor MJ, Freemantle N, Geddes JR, Bhagwagar Z. Early onset of selective serotonin reuptake inhibitor antidepressant action: systematic review and meta-analysis. Arch Gen Psychiatry. 2006;63(11):1217–23."
  },
+ "db:Taylor 2024": {
+  "doi": "10.1136/archdischild-2023-326669",
+  "metin": "Taylor J, Mitchell A, Hall R, Heathcote C, Langton T, Fraser L, ve ark. Interventions to suppress puberty in adolescents experiencing gender dysphoria or incongruence: a systematic review. Arch Dis Child. 2024;109(Suppl 2):s33–s47."
+ },
+ "db:Temrin 2000": {
+  "doi": "10.1098/rspb.2000.1094",
+  "metin": "Temrin H, Buchmayer S, Enquist M. Step-parents and infanticide: new data contradict evolutionary predictions. Proc Biol Sci. 2000;267(1446):943–5."
+ },
  "db:Teplin 2005": {
   "doi": "10.1001/archpsyc.62.8.911",
   "metin": "Teplin LA, McClelland GM, Abram KM, Weiner DA. Crime victimization in adults with severe mental illness: comparison with the National Crime Victimization Survey. Arch Gen Psychiatry. 2005;62(8):911–21."
  },
+ "db:Tero 2010": {
+  "doi": "10.1126/science.1177894",
+  "metin": "Tero A, Takagi S, Saigusa T, Ito K, Bebber DP, Fricker MD, ve ark. Rules for biologically inspired adaptive network design. Science. 2010;327(5964):439–42."
+ },
+ "db:Terrace 1979": {
+  "doi": "10.1126/science.504995",
+  "metin": "Terrace HS, Petitto LA, Sanders RJ, Bever TG. Can an ape create a sentence? Science. 1979;206(4421):891–902."
+ },
+ "db:Thapar 2012": {
+  "doi": "10.1016/S0140-6736(11)60871-4",
+  "metin": "Thapar A, Collishaw S, Pine DS, Thapar AK. Depression in adolescence. Lancet. 2012;379(9820):1056–67."
+ },
  "db:Titulaer 2013": {
   "doi": "10.1016/S1474-4422(12)70310-1",
   "metin": "Titulaer MJ, McCracken L, Gabilondo I, Armangué T, Glaser C, Iizuka T, ve ark. Treatment and prognostic factors for long-term outcome in patients with anti-NMDA receptor encephalitis: an observational cohort study. Lancet Neurol. 2013;12(2):157–65."
+ },
+ "db:Trubetskoy 2022": {
+  "doi": "10.1038/s41586-022-04434-5",
+  "metin": "Trubetskoy V, Pardiñas AF, Qi T, Panagiotaropoulou G, Awasthi S, Bigdeli TB, ve ark. Mapping genomic loci implicates genes and synaptic biology in schizophrenia. Nature. 2022;604(7906):502–508."
+ },
+ "db:Tung 2016": {
+  "doi": "10.1038/ncomms11181",
+  "metin": "Tung J, Archie EA, Altmann J, Alberts SC. Cumulative early life adversity predicts longevity in wild baboons. Nat Commun. 2016;7:11181."
+ },
+ "db:Verhage 2016": {
+  "doi": "10.1037/bul0000038",
+  "metin": "Verhage ML, Schuengel C, Madigan S, Fearon RMP, Oosterman M, Cassibba R, ve ark. Narrowing the transmission gap: A synthesis of three decades of research on intergenerational transmission of attachment. Psychol Bull. 2016;142(4):337–366."
+ },
+ "db:Vong 2024": {
+  "doi": "10.1126/science.adi1374",
+  "metin": "Vong WK, Wang W, Orhan AE, Lake BM. Grounded language acquisition through the eyes and ears of a single child. Science. 2024;383(6682):504–511."
+ },
+ "db:Wagenmakers 2016": {
+  "doi": "10.1177/1745691616674458",
+  "metin": "Wagenmakers EJ, Beek T, Dijkhoff L, Gronau QF, ve ark. Registered Replication Report: Strack, Martin, & Stepper (1988). Perspect Psychol Sci. 2016;11(6):917–928."
  },
  "db:Walkup 2008": {
   "doi": "10.1056/NEJMoa0804633",
@@ -295,18 +743,47 @@
   "doi": "10.1038/nn1276",
   "metin": "Weaver IC, Cervoni N, Champagne FA, D'Alessio AC, Sharma S, Seckl JR, ve ark. Epigenetic programming by maternal behavior. Nat Neurosci. 2004;7(8):847–54."
  },
+ "db:Wedekind 1995": {
+  "doi": "10.1098/rspb.1995.0087",
+  "metin": "Wedekind C, Seebeck T, Bettens F, Paepke AJ. MHC-dependent mate preferences in humans. Proc Biol Sci. 1995;260(1359):245–9."
+ },
+ "db:Weghuber 2022": {
+  "doi": "10.1056/NEJMoa2208601",
+  "metin": "Weghuber D, Barrett T, Barrientos-Pérez M, Gies I, Hesse D, Jeppesen OK, ve ark. Once-Weekly Semaglutide in Adolescents with Obesity. N Engl J Med. 2022;387(24):2245–2257."
+ },
  "db:Whitson 2008": {
   "doi": "10.1126/science.1159845",
   "metin": "Whitson JA, Galinsky AD. Lacking control increases illusory pattern perception. Science. 2008;322(5898):115–7."
+ },
+ "db:Williams 2016": {
+  "doi": "10.1016/j.jaac.2016.06.017",
+  "metin": "Williams KA, Swedo SE, Farmer CA, Grantz H, Grant PJ, D'Souza P, ve ark. Randomized, Controlled Trial of Intravenous Immunoglobulin for Pediatric Autoimmune Neuropsychiatric Disorders Associated With Streptococcal Infections. J Am Acad Child Adolesc Psychiatry. 2016;55(10):860–867.e2."
  },
  "db:Xiao 2025": {
   "doi": "10.1001/jama.2025.7829",
   "metin": "Xiao Y, Meng Y, Brown TT, Keyes KM, Mann JJ. Addictive Screen Use Trajectories and Suicidal Behaviors, Suicidal Ideation, and Mental Health in US Youths. JAMA. 2025;334(3):219–228."
  },
+ "db:Yang 2006": {
+  "doi": "10.1007/s12110-006-1005-z",
+  "metin": "Yang Z, Schank JC. Women do not synchronize their menstrual cycles. Hum Nat. 2006;17(4):433–47."
+ },
+ "db:Yengo 2022": {
+  "doi": "10.1038/s41586-022-05275-y",
+  "metin": "Yengo L, Vedantam S, Marouli E, Sidorenko J, Bartell E, Sakaue S, ve ark. A saturated map of common genetic variants associated with human height. Nature. 2022;610(7933):704–712."
+ },
+ "db:de Groot 2017": {
+  "doi": "10.1093/chemse/bjx049",
+  "metin": "de Groot JHB, Smeets MAM. Human Fear Chemosignaling: Evidence from a Meta-Analysis. Chem Senses. 2017;42(8):663–673."
+ },
  "s:achenbach1987": {
   "doi": "",
   "metin": "Achenbach TM, McConaughy SH, Howell CT. Child/adolescent behavioral and emotional problems: implications of cross-informant correlations for situational specificity. Psychol Bull. 1987;101(2):213-32.",
   "pmid": "3562706"
+ },
+ "s:andersson2025": {
+  "doi": "10.7326/ANNALS-25-00997",
+  "metin": "Andersson NW, Bech Svalgaard I, Hoffmann SS, Hviid A. Aluminum-adsorbed vaccines and chronic diseases in childhood: a nationwide cohort study. Ann Intern Med. 2025;178(10):1369-77.",
+  "pmid": "40658954"
  },
  "s:bai2019": {
   "doi": "10.1001/jamapsychiatry.2019.1411",
@@ -318,6 +795,11 @@
   "metin": "Baile WF, Buckman R, Lenzi R, Glober G, Beale EA, Kudelka AP. SPIKES-A six-step protocol for delivering bad news: application to the patient with cancer. Oncologist. 2000;5(4):302-11.",
   "pmid": "10964998"
  },
+ "s:bismark2013": {
+  "doi": "10.1136/bmjqs-2012-001691",
+  "metin": "Bismark MM, Spittal MJ, Gurrin LC, Ward M, Studdert DM. Identification of doctors at risk of recurrent complaints: a national study of healthcare complaints in Australia. BMJ Qual Saf. 2013;22(7):532-40.",
+  "pmid": "23576774"
+ },
  "s:bobo2013": {
   "doi": "10.1001/jamapsychiatry.2013.2053",
   "metin": "Bobo WV, Cooper WO, Stein CM, Olfson M, Graham D, Daugherty J, ve ark. Antipsychotics and the risk of type 2 diabetes mellitus in children and youth. JAMA Psychiatry. 2013;70(10):1067-75.",
@@ -327,6 +809,11 @@
   "doi": "10.1001/jama.297.15.1683",
   "metin": "Bridge JA, Iyengar S, Salary CB, Barbe RP, Birmaher B, Pincus HA, ve ark. Clinical response and risk for reported suicidal ideation and suicide attempts in pediatric antidepressant treatment: a meta-analysis of randomized controlled trials. JAMA. 2007;297(15):1683-96.",
   "pmid": "17440145"
+ },
+ "s:caplan1991": {
+  "doi": "",
+  "metin": "Caplan RA, Posner KL, Cheney FW. Effect of outcome on physician judgments of appropriateness of care. JAMA. 1991;265(15):1957-60.",
+  "pmid": "2008024"
  },
  "s:carter2017": {
   "doi": "10.1192/bjp.bp.116.182717",
@@ -338,25 +825,60 @@
   "metin": "Casscells W, Schoenberger A, Graboys TB. Interpretation by physicians of clinical laboratory results. N Engl J Med. 1978;299(18):999-1001.",
   "pmid": "692627"
  },
+ "s:chabris2019": {
+  "doi": "10.1027/1864-9335/a000361",
+  "metin": "Chabris CF, Heck PR, Mandart J, Benjamin DJ, Simons DJ. No evidence that experiencing physical warmth promotes interpersonal warmth: two failures to replicate Williams and Bargh (2008). Soc Psychol. 2019;50(2):127-32.",
+  "pmid": ""
+ },
  "s:dazzi2014": {
   "doi": "10.1017/S0033291714001299",
   "metin": "Dazzi T, Gribble R, Wessely S, Fear NT. Does asking about suicide and related behaviours induce suicidal ideation? What is the evidence? Psychol Med. 2014;44(16):3361-3.",
   "pmid": "24998511"
+ },
+ "s:delbanco2012": {
+  "doi": "10.7326/0003-4819-157-7-201210020-00002",
+  "metin": "Delbanco T, Walker J, Bell SK, Darer JD, Elmore JG, Farag N, ve ark. Inviting patients to read their doctors' notes: a quasi-experimental study and a look ahead. Ann Intern Med. 2012;157(7):461-70.",
+  "pmid": "23027317"
  },
  "s:delosreyes2015": {
   "doi": "10.1037/a0038498",
   "metin": "De Los Reyes A, Augenstein TM, Wang M, Thomas SA, Drabick DAG, Burgers DE, ve ark. The validity of the multi-informant approach to assessing child and adolescent mental health. Psychol Bull. 2015;141(4):858-900.",
   "pmid": "25915035"
  },
+ "s:dursun2020": {
+  "doi": "10.29399/npa.23674",
+  "metin": "Dursun OB, Öğütlü H, Esin İS. Psychometric properties of Turkish version of the Strength and Difficulties Questionnaire for age 2-4. Noro Psikiyatr Ars. 2020;57(1):44-9.",
+  "pmid": "32110150"
+ },
+ "s:fontanella2020": {
+  "doi": "10.1001/jamanetworkopen.2020.12887",
+  "metin": "Fontanella CA, Warner LA, Steelesmith DL, Brock G, Bridge JA, Campo JV. Association of timely outpatient mental health services for youths after psychiatric hospitalization with risk of death by suicide. JAMA Netw Open. 2020;3(8):e2012887.",
+  "pmid": "32780122"
+ },
  "s:ford1997": {
   "doi": "",
   "metin": "Ford CA, Millstein SG, Halpern-Felsher BL, Irwin CE. Influence of physician confidentiality assurances on adolescents' willingness to disclose information and seek future health care. A randomized controlled trial. JAMA. 1997;278(12):1029-34.",
   "pmid": "9307357"
  },
+ "s:foxcroft2015": {
+  "doi": "10.1002/14651858.CD006748.pub4",
+  "metin": "Foxcroft DR, Moreira MT, Almeida Santimano NM, Smith LA. Social norms information for alcohol misuse in university and college students. Cochrane Database Syst Rev. 2015;(12):CD006748.",
+  "pmid": "26711838"
+ },
  "s:goodman2001": {
   "doi": "10.1097/00004583-200111000-00015",
   "metin": "Goodman R. Psychometric properties of the strengths and difficulties questionnaire. J Am Acad Child Adolesc Psychiatry. 2001;40(11):1337-45.",
   "pmid": "11699809"
+ },
+ "s:goodman2011": {
+  "doi": "10.1007/s10567-010-0080-1",
+  "metin": "Goodman SH, Rouse MH, Connell AM, Broth MR, Hall CM, Heyward D. Maternal depression and child psychopathology: a meta-analytic review. Clin Child Fam Psychol Rev. 2011;14(1):1-27.",
+  "pmid": "21052833"
+ },
+ "s:gotlieb2022": {
+  "doi": "10.1001/jamanetworkopen.2022.42972",
+  "metin": "Gotlieb R, Praska C, Hendrickson MA, Marmet J, Charpentier V, Hause E, ve ark. Accuracy in patient understanding of common medical phrases. JAMA Netw Open. 2022;5(11):e2242972.",
+  "pmid": "36449293"
  },
  "s:gould2005": {
   "doi": "10.1001/jama.293.13.1635",
@@ -388,6 +910,31 @@
   "metin": "Havdahl KA, Hus Bal V, Huerta M, Pickles A, Øyen AS, Stoltenberg C, ve ark. Multidimensional influences on autism symptom measures: implications for use in etiological research. J Am Acad Child Adolesc Psychiatry. 2016;55(12):1054-63.e3.",
   "pmid": "27871640"
  },
+ "s:haynes2009": {
+  "doi": "10.1056/NEJMsa0810119",
+  "metin": "Haynes AB, Weiser TG, Berry WR, Lipsitz SR, Breizat AH, Dellinger EP, ve ark. A surgical safety checklist to reduce morbidity and mortality in a global population. N Engl J Med. 2009;360(5):491-9.",
+  "pmid": "19144931"
+ },
+ "s:healy2019": {
+  "doi": "10.1017/S0033291719000485",
+  "metin": "Healy C, Brannigan R, Dooley N, Coughlan H, Clarke M, Kelleher I, ve ark. Childhood and adolescent psychotic experiences and risk of mental disorder: a systematic review and meta-analysis. Psychol Med. 2019;49(10):1589-99.",
+  "pmid": "31088578"
+ },
+ "s:hickson2002": {
+  "doi": "10.1001/jama.287.22.2951",
+  "metin": "Hickson GB, Federspiel CF, Pichert JW, Miller CS, Gauld-Jaeger J, Bost P. Patient complaints and malpractice risk. JAMA. 2002;287(22):2951-7.",
+  "pmid": "12052124"
+ },
+ "s:hill2004": {
+  "doi": "10.1111/j.1365-3016.2004.00560.x",
+  "metin": "Hill R. Multiple sudden infant deaths -- coincidence or beyond coincidence?. Paediatr Perinat Epidemiol. 2004;18(5):320-6.",
+  "pmid": "15367318"
+ },
+ "s:hoffrage2000": {
+  "doi": "10.1126/science.290.5500.2261",
+  "metin": "Hoffrage U, Lindsey S, Hertwig R, Gigerenzer G. Communicating statistical information. Science. 2000;290(5500):2261-2.",
+  "pmid": "11188724"
+ },
  "s:honda2005": {
   "doi": "10.1111/j.1469-7610.2005.01425.x",
   "metin": "Honda H, Shimizu Y, Rutter M. No effect of MMR withdrawal on the incidence of autism: a total population study. J Child Psychol Psychiatry. 2005;46(6):572-9.",
@@ -403,10 +950,30 @@
   "metin": "Hviid A, Hansen JV, Frisch M, Melbye M. Measles, Mumps, Rubella Vaccination and Autism: A Nationwide Cohort Study. Ann Intern Med. 2019;170(8):513-520.",
   "pmid": "30831578"
  },
+ "s:insel2010": {
+  "doi": "10.1176/appi.ajp.2010.09091379",
+  "metin": "Insel T, Cuthbert B, Garvey M, Heinssen R, Pine DS, Quinn K, ve ark. Research domain criteria (RDoC): toward a new classification framework for research on mental disorders. Am J Psychiatry. 2010;167(7):748-51.",
+  "pmid": "20595427"
+ },
+ "s:jena2011": {
+  "doi": "10.1056/NEJMsa1012370",
+  "metin": "Jena AB, Seabury S, Lakdawalla D, Chandra A. Malpractice risk according to physician specialty. N Engl J Med. 2011;365(7):629-36.",
+  "pmid": "21848463"
+ },
  "s:jensen2011": {
   "doi": "10.1037/a0023992",
   "metin": "Jensen CD, Cushing CC, Aylward BS, Craig JT, Sorell DM, Steele RG. Effectiveness of motivational interviewing interventions for adolescent substance use behavior change: a meta-analytic review. J Consult Clin Psychol. 2011;79(4):433-40.",
   "pmid": "21728400"
+ },
+ "s:johnson2003": {
+  "doi": "10.1126/science.1091721",
+  "metin": "Johnson EJ, Goldstein D. Medicine. Do defaults save lives? Science. 2003;302(5649):1338-9.",
+  "pmid": "14631022"
+ },
+ "s:kachalia2010": {
+  "doi": "10.7326/0003-4819-153-4-201008170-00002",
+  "metin": "Kachalia A, Kaufman SR, Boothman R, Anderson S, Welch K, Saint S, ve ark. Liability claims and costs before and after implementation of a medical error disclosure program. Ann Intern Med. 2010;153(4):213-21.",
+  "pmid": "20713789"
  },
  "s:karver2018": {
   "doi": "10.1037/pst0000176",
@@ -423,6 +990,16 @@
   "metin": "Kelleher I, Connor D, Clarke MC, Devlin N, Harley M, Cannon M. Prevalence of psychotic symptoms in childhood and adolescence: a systematic review and meta-analysis of population-based studies. Psychol Med. 2012;42(9):1857-63.",
   "pmid": "22225730"
  },
+ "s:kendalltackett1993": {
+  "doi": "10.1037/0033-2909.113.1.164",
+  "metin": "Kendall-Tackett KA, Williams LM, Finkelhor D. Impact of sexual abuse on children: a review and synthesis of recent empirical studies. Psychol Bull. 1993;113(1):164-80.",
+  "pmid": "8426874"
+ },
+ "s:kern1982": {
+  "doi": "10.1097/00001888-198202000-00004",
+  "metin": "Kern L, Doherty ME. 'Pseudodiagnosticity' in an idealized medical problem-solving environment. J Med Educ. 1982;57(2):100-4.",
+  "pmid": "7057428"
+ },
  "s:kessels2003": {
   "doi": "10.1177/014107680309600504",
   "metin": "Kessels RP. Patients' memory for medical information. J R Soc Med. 2003;96(5):219-22.",
@@ -432,6 +1009,11 @@
   "doi": "10.1037/abn0000258",
   "metin": "Kotov R, Krueger RF, Watson D, Achenbach TM, Althoff RR, Bagby RM, ve ark. The Hierarchical Taxonomy of Psychopathology (HiTOP): A dimensional alternative to traditional nosologies. J Abnorm Psychol. 2017;126(4):454-477.",
   "pmid": "28333488"
+ },
+ "s:kurtz1996": {
+  "doi": "10.1111/j.1365-2923.1996.tb00724.x",
+  "metin": "Kurtz SM, Silverman JD. The Calgary-Cambridge Referenced Observation Guides: an aid to defining the curriculum and organizing the teaching in communication training programmes. Med Educ. 1996;30(2):83-9.",
+  "pmid": "8736242"
  },
  "s:kvaale2013": {
   "doi": "10.1016/j.cpr.2013.06.002",
@@ -443,10 +1025,20 @@
   "metin": "McLeod BD. Relation of the alliance with outcomes in youth psychotherapy: a meta-analysis. Clin Psychol Rev. 2011;31(4):603-16.",
   "pmid": "21482319"
  },
+ "s:nguengangwakap2020": {
+  "doi": "10.1038/s41431-019-0508-0",
+  "metin": "Nguengang Wakap S, Lambert DM, Olry A, Rodwell C, Gueydan C, Lanneau V, ve ark. Estimating cumulative point prevalence of rare diseases: analysis of the Orphanet database. Eur J Hum Genet. 2020;28(2):165-173.",
+  "pmid": "31527858"
+ },
  "s:nikles2006": {
   "doi": "10.1542/peds.2005-1328",
   "metin": "Nikles CJ, Mitchell GK, Del Mar CB, Clavarino A, McNairn N. An n-of-1 trial service in clinical practice: testing the effectiveness of stimulants for attention-deficit/hyperactivity disorder. Pediatrics. 2006;117(6):2040-6.",
   "pmid": "16740846"
+ },
+ "s:ohan2011": {
+  "doi": "10.1016/j.jsp.2010.10.001",
+  "metin": "Ohan JL, Visser TA, Strain MC, Allen L. Teachers' and education students' perceptions of and reactions to children with and without the diagnostic label \"ADHD\". J Sch Psychol. 2011;49(1):81-105.",
+  "pmid": "21215837"
  },
  "s:polderman2015": {
   "doi": "10.1038/ng.3285",
@@ -473,6 +1065,16 @@
   "metin": "Rapoport JL, Buchsbaum MS, Zahn TP, Weingartner H, Ludlow C, Mikkelsen EJ. Dextroamphetamine: cognitive and behavioral effects in normal prepubertal boys. Science. 1978;199(4328):560-3.",
   "pmid": "341313"
  },
+ "s:regier2013": {
+  "doi": "10.1176/appi.ajp.2012.12070999",
+  "metin": "Regier DA, Narrow WE, Clarke DE, Kraemer HC, Kuramoto SJ, Kuhl EA, ve ark. DSM-5 field trials in the United States and Canada, Part II: test-retest reliability of selected categorical diagnoses. Am J Psychiatry. 2013;170(1):59-70.",
+  "pmid": "23111466"
+ },
+ "s:ronald2006": {
+  "doi": "10.1097/01.chi.0000215325.13058.9d",
+  "metin": "Ronald A, Happé F, Bolton P, Butcher LM, Price TS, Wheelwright S, ve ark. Genetic heterogeneity between the three components of the autism spectrum: a twin study. J Am Acad Child Adolesc Psychiatry. 2006;45(6):691-699.",
+  "pmid": "16721319"
+ },
  "s:salazar2021": {
   "doi": "10.1001/jamapsychiatry.2021.0830",
   "metin": "Salazar de Pablo G, Radua J, Pereira J, Bonoldi I, Arienti V, Besana F, ve ark. Probability of transition to psychosis in individuals at clinical high risk: an updated meta-analysis. JAMA Psychiatry. 2021;78(9):970-8.",
@@ -482,6 +1084,11 @@
   "doi": "10.3109/07434618.2014.971490",
   "metin": "Schlosser RW, Balandin S, Hemsley B, Iacono T, Probst P, von Tetzchner S. Facilitated communication and authorship: a systematic review. Augment Altern Commun. 2014;30(4):359-68.",
   "pmid": "25384895"
+ },
+ "s:stroebe2017": {
+  "doi": "10.1177/0030222817691870",
+  "metin": "Stroebe M, Schut H, Boerner K. Cautioning health-care professionals: bereaved persons are misguided through the stages of grief. Omega (Westport). 2017;74(4):455-473.",
+  "pmid": "28355991"
  },
  "s:tick2016": {
   "doi": "10.1111/jcpp.12499",
@@ -493,6 +1100,26 @@
   "metin": "Tversky A, Kahneman D. Judgment under uncertainty: heuristics and biases. Science. 1974;185(4157):1124-31.",
   "pmid": "17835457"
  },
+ "s:tversky1981": {
+  "doi": "10.1126/science.7455683",
+  "metin": "Tversky A, Kahneman D. The framing of decisions and the psychology of choice. Science. 1981;211(4481):453-8.",
+  "pmid": "7455683"
+ },
+ "s:tversky1983": {
+  "doi": "10.1037/0033-295X.90.4.293",
+  "metin": "Tversky A, Kahneman D. Extensional versus intuitive reasoning: the conjunction fallacy in probability judgment. Psychol Rev. 1983;90(4):293-315.",
+  "pmid": ""
+ },
+ "s:urbach2014": {
+  "doi": "10.1056/NEJMsa1308261",
+  "metin": "Urbach DR, Govindarajan A, Saskin R, Wilton AS, Baxter NN. Introduction of surgical safety checklists in Ontario, Canada. N Engl J Med. 2014;370(11):1029-38.",
+  "pmid": "24620866"
+ },
+ "s:walker2019": {
+  "doi": "10.1177/1524838017692364",
+  "metin": "Walker HE, Freud JS, Ellis RA, Fraine SM, Wilson LC. The Prevalence of Sexual Revictimization: A Meta-Analytic Review. Trauma Violence Abuse. 2019;20(1):67-80.",
+  "pmid": "29333937"
+ },
  "s:wason1960": {
   "doi": "10.1080/17470216008416717",
   "metin": "Wason PC. On the failure to eliminate hypotheses in a conceptual task. Q J Exp Psychol. 1960;12(3):129-40.",
@@ -502,6 +1129,16 @@
   "doi": "10.1001/jama.295.12.1389",
   "metin": "Weissman MM, Pilowsky DJ, Wickramaratne PJ, Talati A, Wisniewski SR, Fava M, ve ark. Remissions in maternal depression and child psychopathology: a STAR*D-child report. JAMA. 2006;295(12):1389-98.",
   "pmid": "16551710"
+ },
+ "s:wikler1981": {
+  "doi": "10.1111/j.1939-0025.1981.tb01348.x",
+  "metin": "Wikler L, Wasow M, Hatfield E. Chronic sorrow revisited: parent vs. professional depiction of the adjustment of parents of mentally retarded children. Am J Orthopsychiatry. 1981;51(1):63-70.",
+  "pmid": "7212030"
+ },
+ "s:williams2008": {
+  "doi": "10.1126/science.1162548",
+  "metin": "Williams LE, Bargh JA. Experiencing physical warmth promotes interpersonal warmth. Science. 2008;322(5901):606-7.",
+  "pmid": "18948544"
  },
  "s:williams2025": {
   "doi": "10.1017/9781108767200",
@@ -527,9 +1164,59 @@
   "doi": "",
   "metin": "Ainsworth MDS, Blehar MC, Waters E, Wall S. Patterns of Attachment: A Psychological Study of the Strange Situation. Hillsdale (NJ): Lawrence Erlbaum; 1978."
  },
+ "x:annafreud1936": {
+  "doi": "",
+  "metin": "Freud A. The Ego and the Mechanisms of Defence (1936). Londra: Hogarth Press; 1937."
+ },
+ "x:asperger1944": {
+  "doi": "",
+  "metin": "Asperger H. Die „Autistischen Psychopathen“ im Kindesalter. Arch Psychiatr Nervenkr. 1944;117:76-136."
+ },
+ "x:bandura1961": {
+  "doi": "",
+  "metin": "Bandura A, Ross D, Ross SA. Transmission of aggression through imitation of aggressive models. J Abnorm Soc Psychol. 1961;63:575-82.",
+  "pmid": "13864605"
+ },
+ "x:bandura1977": {
+  "doi": "",
+  "metin": "Bandura A. Self-efficacy: toward a unifying theory of behavioral change. Psychol Rev. 1977;84(2):191-215."
+ },
+ "x:baroncohen1985": {
+  "doi": "",
+  "metin": "Baron-Cohen S, Leslie AM, Frith U. Does the autistic child have a “theory of mind”? Cognition. 1985;21(1):37-46.",
+  "pmid": "2934210"
+ },
+ "x:baumrind1967": {
+  "doi": "",
+  "metin": "Baumrind D. Child care practices anteceding three patterns of preschool behavior. Genet Psychol Monogr. 1967;75(1):43-88."
+ },
+ "x:beck1979": {
+  "doi": "",
+  "metin": "Beck AT, Rush AJ, Shaw BF, Emery G. Cognitive Therapy of Depression. New York: Guilford Press; 1979."
+ },
+ "x:bion1962": {
+  "doi": "",
+  "metin": "Bion WR. Learning from Experience. Londra: Heinemann; 1962."
+ },
+ "x:bowen1978": {
+  "doi": "",
+  "metin": "Bowen M. Family Therapy in Clinical Practice. New York: Jason Aronson; 1978."
+ },
  "x:bowlby1969": {
   "doi": "",
   "metin": "Bowlby J. Attachment and Loss, Vol. 1: Attachment. Londra: Hogarth Press; 1969."
+ },
+ "x:bradley1937": {
+  "doi": "",
+  "metin": "Bradley C. The behavior of children receiving benzedrine. Am J Psychiatry. 1937;94(3):577-85."
+ },
+ "x:bronfenbrenner1979": {
+  "doi": "",
+  "metin": "Bronfenbrenner U. The Ecology of Human Development: Experiments by Nature and Design. Cambridge (MA): Harvard University Press; 1979."
+ },
+ "x:chomsky1965": {
+  "doi": "",
+  "metin": "Chomsky N. Aspects of the Theory of Syntax. Cambridge (MA): MIT Press; 1965."
  },
  "x:cipriani2016": {
   "doi": "10.1016/S0140-6736(16)30385-3",
@@ -547,6 +1234,15 @@
   "doi": "",
   "metin": "American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington (DC): American Psychiatric Association Publishing; 2022."
  },
+ "x:elkind1967": {
+  "doi": "",
+  "metin": "Elkind D. Egocentrism in adolescence. Child Dev. 1967;38(4):1025-34."
+ },
+ "x:emslie1997": {
+  "doi": "",
+  "metin": "Emslie GJ, Rush AJ, Weinberg WA, Kowatch RA, Hughes CW, Carmody T, ve ark. A double-blind, randomized, placebo-controlled trial of fluoxetine in children and adolescents with depression. Arch Gen Psychiatry. 1997;54(11):1031-7.",
+  "pmid": "9366660"
+ },
  "x:erikson1950": {
   "doi": "",
   "metin": "Erikson EH. Childhood and Society. New York: W. W. Norton; 1950."
@@ -555,9 +1251,25 @@
   "doi": "10.1017/S003329170500471X",
   "metin": "Faraone SV, Biederman J, Mick E. The age-dependent decline of attention deficit hyperactivity disorder: a meta-analysis of follow-up studies. Psychol Med. 2006;36(2):159-65."
  },
+ "x:fonagy2002": {
+  "doi": "",
+  "metin": "Fonagy P, Gergely G, Jurist EL, Target M. Affect Regulation, Mentalization, and the Development of the Self. New York: Other Press; 2002."
+ },
+ "x:freud1905": {
+  "doi": "",
+  "metin": "Freud S. Three essays on the theory of sexuality (1905). The Standard Edition of the Complete Psychological Works of Sigmund Freud, Cilt 7. Londra: Hogarth Press; 1953."
+ },
  "x:freud1909": {
   "doi": "",
   "metin": "Freud S. Analysis of a phobia in a five-year-old boy (1909). The Standard Edition of the Complete Psychological Works of Sigmund Freud, Cilt 10. Londra: Hogarth Press; 1955."
+ },
+ "x:freud1923": {
+  "doi": "",
+  "metin": "Freud S. The ego and the id (1923). The Standard Edition of the Complete Psychological Works of Sigmund Freud, Cilt 19. Londra: Hogarth Press; 1961."
+ },
+ "x:gilligan1982": {
+  "doi": "",
+  "metin": "Gilligan C. In a Different Voice: Psychological Theory and Women's Development. Cambridge (MA): Harvard University Press; 1982."
  },
  "x:hankin1998": {
   "doi": "10.1037/0021-843x.107.1.128",
@@ -571,6 +1283,19 @@
   "doi": "10.1002/14651858.CD002317.pub2",
   "metin": "Hazell P, Mirzaie M. Tricyclic drugs for depression in children and adolescents. Cochrane Database Syst Rev. 2013;(6):CD002317."
  },
+ "x:kagan1988": {
+  "doi": "",
+  "metin": "Kagan J, Reznick JS, Snidman N. Biological bases of childhood shyness. Science. 1988;240(4849):167-71."
+ },
+ "x:kane1988": {
+  "doi": "",
+  "metin": "Kane J, Honigfeld G, Singer J, Meltzer H. Clozapine for the treatment-resistant schizophrenic. A double-blind comparison with chlorpromazine. Arch Gen Psychiatry. 1988;45(9):789-96.",
+  "pmid": "3046553"
+ },
+ "x:kanner1943": {
+  "doi": "",
+  "metin": "Kanner L. Autistic disturbances of affective contact. Nerv Child. 1943;2:217-50."
+ },
  "x:kessler2005": {
   "doi": "10.1001/archpsyc.62.6.593",
   "metin": "Kessler RC, Berglund P, Demler O, Jin R, Merikangas KR, Walters EE. Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. Arch Gen Psychiatry. 2005;62(6):593-602."
@@ -578,6 +1303,22 @@
  "x:kimcohen2003": {
   "doi": "10.1001/archpsyc.60.7.709",
   "metin": "Kim-Cohen J, Caspi A, Moffitt TE, Harrington H, Milne BJ, Poulton R. Prior juvenile diagnoses in adults with mental disorder: developmental follow-back of a prospective-longitudinal cohort. Arch Gen Psychiatry. 2003;60(7):709-17."
+ },
+ "x:klein1946": {
+  "doi": "",
+  "metin": "Klein M. Notes on some schizoid mechanisms. Int J Psychoanal. 1946;27:99-110."
+ },
+ "x:kohlberg1981": {
+  "doi": "",
+  "metin": "Kohlberg L. Essays on Moral Development, Cilt 1: The Philosophy of Moral Development. San Francisco: Harper & Row; 1981."
+ },
+ "x:kohut1971": {
+  "doi": "",
+  "metin": "Kohut H. The Analysis of the Self. New York: International Universities Press; 1971."
+ },
+ "x:kublerross1969": {
+  "doi": "",
+  "metin": "Kübler-Ross E. On Death and Dying. New York: Macmillan; 1969."
  },
  "x:lai2015": {
   "doi": "10.1016/S2215-0366(15)00277-1",
@@ -587,44 +1328,165 @@
   "doi": "10.1001/archgenpsychiatry.2009.46",
   "metin": "Libby AM, Orton HD, Valuck RJ. Persisting decline in depression treatment after FDA warnings. Arch Gen Psychiatry. 2009;66(6):633-9."
  },
+ "x:linehan1993": {
+  "doi": "",
+  "metin": "Linehan MM. Cognitive-Behavioral Treatment of Borderline Personality Disorder. New York: Guilford Press; 1993."
+ },
  "x:lock2010": {
   "doi": "10.1001/archgenpsychiatry.2010.128",
   "metin": "Lock J, Le Grange D, Agras WS, Moye A, Bryson SW, Jo B. Randomized clinical trial comparing family-based treatment with adolescent-focused individual therapy for adolescents with anorexia nervosa. Arch Gen Psychiatry. 2010;67(10):1025-32."
+ },
+ "x:lovaas1987": {
+  "doi": "",
+  "metin": "Lovaas OI. Behavioral treatment and normal educational and intellectual functioning in young autistic children. J Consult Clin Psychol. 1987;55(1):3-9.",
+  "pmid": "3571656"
  },
  "x:mahler1975": {
   "doi": "",
   "metin": "Mahler MS, Pine F, Bergman A. The Psychological Birth of the Human Infant: Symbiosis and Individuation. New York: Basic Books; 1975."
  },
+ "x:main1990": {
+  "doi": "",
+  "metin": "Main M, Solomon J. Procedures for identifying infants as disorganized/disoriented during the Ainsworth Strange Situation. İçinde: Greenberg MT, Cicchetti D, Cummings EM, editörler. Attachment in the Preschool Years. Chicago: University of Chicago Press; 1990. s. 121-60."
+ },
+ "x:marcia1966": {
+  "doi": "",
+  "metin": "Marcia JE. Development and validation of ego-identity status. J Pers Soc Psychol. 1966;3(5):551-8."
+ },
+ "x:maudsley15": {
+  "doi": "",
+  "metin": "Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry. 15. baskı. Hoboken (NJ): Wiley-Blackwell; 2025."
+ },
+ "x:minuchin1974": {
+  "doi": "",
+  "metin": "Minuchin S. Families and Family Therapy. Cambridge (MA): Harvard University Press; 1974."
+ },
  "x:moreno2007": {
   "doi": "10.1001/archpsyc.64.9.1032",
   "metin": "Moreno C, Laje G, Blanco C, Jiang H, Schmidt AB, Olfson M. National trends in the outpatient diagnosis and treatment of bipolar disorder in youth. Arch Gen Psychiatry. 2007;64(9):1032-9."
+ },
+ "x:mta1999": {
+  "doi": "",
+  "metin": "The MTA Cooperative Group. A 14-month randomized clinical trial of treatment strategies for attention-deficit/hyperactivity disorder. Arch Gen Psychiatry. 1999;56(12):1073-86.",
+  "pmid": "10591283"
+ },
+ "x:pats2006": {
+  "doi": "",
+  "metin": "Greenhill L, Kollins S, Abikoff H, McCracken J, Riddle M, Swanson J, ve ark. Efficacy and safety of immediate-release methylphenidate treatment for preschoolers with ADHD. J Am Acad Child Adolesc Psychiatry. 2006;45(11):1284-93.",
+  "pmid": "17023867"
+ },
+ "x:patterson1982": {
+  "doi": "",
+  "metin": "Patterson GR. Coercive Family Process. Eugene (OR): Castalia; 1982."
+ },
+ "x:pavlov1927": {
+  "doi": "",
+  "metin": "Pavlov IP. Conditioned Reflexes. Londra: Oxford University Press; 1927."
  },
  "x:piaget1952": {
   "doi": "",
   "metin": "Piaget J. The Origins of Intelligence in Children. New York: International Universities Press; 1952."
  },
+ "x:piaget1956": {
+  "doi": "",
+  "metin": "Piaget J, Inhelder B. The Child's Conception of Space. Londra: Routledge & Kegan Paul; 1956."
+ },
+ "x:pots2004": {
+  "doi": "",
+  "metin": "Pediatric OCD Treatment Study (POTS) Team. Cognitive-behavior therapy, sertraline, and their combination for children and adolescents with obsessive-compulsive disorder: the Pediatric OCD Treatment Study (POTS) randomized controlled trial. JAMA. 2004;292(16):1969-76.",
+  "pmid": "15507582"
+ },
+ "x:rupp2002": {
+  "doi": "",
+  "metin": "McCracken JT, McGough J, Shah B, Cronin P, Hong D, Aman MG, ve ark. Risperidone in children with autism and serious behavioral problems. N Engl J Med. 2002;347(5):314-21.",
+  "pmid": "12151468"
+ },
+ "x:rutter1970": {
+  "doi": "",
+  "metin": "Rutter M, Tizard J, Whitmore K. Education, Health and Behaviour. Londra: Longman; 1970."
+ },
+ "x:seligman1967": {
+  "doi": "",
+  "metin": "Seligman MEP, Maier SF. Failure to escape traumatic shock. J Exp Psychol. 1967;74(1):1-9."
+ },
+ "x:shapiro1989": {
+  "doi": "",
+  "metin": "Shapiro F. Efficacy of the eye movement desensitization procedure in the treatment of traumatic memories. J Trauma Stress. 1989;2(2):199-223."
+ },
  "x:singh2010": {
   "doi": "10.1192/bjp.bp.109.075135",
   "metin": "Singh SP, Paul M, Ford T, Kramer T, Weaver T, McLaren S, ve ark. Process, outcome and experience of transition from child to adult mental healthcare: multiperspective study. Br J Psychiatry. 2010;197(4):305-12."
+ },
+ "x:skinner1938": {
+  "doi": "",
+  "metin": "Skinner BF. The Behavior of Organisms: An Experimental Analysis. New York: Appleton-Century; 1938."
+ },
+ "x:spitz1945": {
+  "doi": "",
+  "metin": "Spitz RA. Hospitalism: an inquiry into the genesis of psychiatric conditions in early childhood. Psychoanal Study Child. 1945;1:53-74."
+ },
+ "x:spitz1965": {
+  "doi": "",
+  "metin": "Spitz RA. The First Year of Life. New York: International Universities Press; 1965."
+ },
+ "x:stern1985": {
+  "doi": "",
+  "metin": "Stern DN. The Interpersonal World of the Infant. New York: Basic Books; 1985."
+ },
+ "x:still1902": {
+  "doi": "",
+  "metin": "Still GF. Some abnormal psychical conditions in children: the Goulstonian lectures. Lancet. 1902;1:1008-12."
  },
  "x:stone2009": {
   "doi": "10.1136/bmj.b2880",
   "metin": "Stone M, Laughren T, Jones ML, Levenson M, Holland PC, Hughes A, ve ark. Risk of suicidality in clinical trials of antidepressants in adults: analysis of proprietary data submitted to US Food and Drug Administration. BMJ. 2009;339:b2880."
  },
+ "x:tanner1962": {
+  "doi": "",
+  "metin": "Tanner JM. Growth at Adolescence. 2. baskı. Oxford: Blackwell Scientific; 1962."
+ },
+ "x:teoss2008": {
+  "doi": "",
+  "metin": "Sikich L, Frazier JA, McClellan J, Findling RL, Vitiello B, Ritz L, ve ark. Double-blind comparison of first- and second-generation antipsychotics in early-onset schizophrenia and schizo-affective disorder: findings from the Treatment of Early-Onset Schizophrenia Spectrum Disorders (TEOSS) study. Am J Psychiatry. 2008;165(11):1420-31.",
+  "pmid": "18794207"
+ },
  "x:thomas1977": {
   "doi": "",
   "metin": "Thomas A, Chess S. Temperament and Development. New York: Brunner/Mazel; 1977."
+ },
+ "x:tordia2008": {
+  "doi": "",
+  "metin": "Brent D, Emslie G, Clarke G, Wagner KD, Asarnow JR, Keller M, ve ark. Switching to another SSRI or to venlafaxine with or without cognitive behavioral therapy for adolescents with SSRI-resistant depression: the TORDIA randomized controlled trial. JAMA. 2008;299(8):901-13.",
+  "pmid": "18314433"
  },
  "x:vygotsky1978": {
   "doi": "",
   "metin": "Vygotsky LS. Mind in Society: The Development of Higher Psychological Processes. Cambridge (MA): Harvard University Press; 1978."
  },
+ "x:watson1920": {
+  "doi": "",
+  "metin": "Watson JB, Rayner R. Conditioned emotional reactions. J Exp Psychol. 1920;3(1):1-14."
+ },
  "x:weisz2017": {
   "doi": "10.1037/a0040360",
   "metin": "Weisz JR, Kuppens S, Ng MY, Eckshtain D, Ugueto AM, Vaughn-Coaxum R, ve ark. What five decades of research tells us about the effects of youth psychological therapy: a multilevel meta-analysis and implications for science and practice. Am Psychol. 2017;72(2):79-117."
  },
+ "x:wimmer1983": {
+  "doi": "",
+  "metin": "Wimmer H, Perner J. Beliefs about beliefs: representation and constraining function of wrong beliefs in young children's understanding of deception. Cognition. 1983;13(1):103-28.",
+  "pmid": "6681741"
+ },
  "x:winnicott1953": {
   "doi": "",
   "metin": "Winnicott DW. Transitional objects and transitional phenomena: a study of the first not-me possession. Int J Psychoanal. 1953;34(2):89-97."
+ },
+ "x:winnicott1960": {
+  "doi": "",
+  "metin": "Winnicott DW. The theory of the parent-infant relationship. Int J Psychoanal. 1960;41:585-95.",
+  "pmid": "13785877"
+ },
+ "x:wood1976": {
+  "doi": "",
+  "metin": "Wood D, Bruner JS, Ross G. The role of tutoring in problem solving. J Child Psychol Psychiatry. 1976;17(2):89-100."
  }
 }
