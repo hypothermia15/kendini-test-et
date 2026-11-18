@@ -122,3 +122,12 @@ GABBARD = {1: "Basic Principles of Dynamic Psychiatry", 2: "The Theoretical Basi
  16: "Cluster B Personality Disorders: Narcissistic", 17: "Cluster B Personality Disorders: Antisocial", 19: "Cluster C Personality Disorders: Obsessive-Compulsive, Avoidant, and Dependent"}
 GABBARD_KUNYE = "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014."
 
+RUTTER.update({46: "Working in low-resource settings"})
+GABBARD.update({4: "Treatments in Dynamic Psychiatry: Individual Psychotherapy", 7: "Schizophrenia", 9: "Anxiety Disorders",
+ 10: "Trauma- and Stressor-Related Disorders and Dissociative Disorders", 14: "Cluster A Personality Disorders: Paranoid, Schizoid, and Schizotypal",
+ 18: "Hysterical and Histrionic Personality Disorders"})
+IACAPAP.update({"A1.3": "Typical Child and Adolescent Development", "A2.1": "Transdiagnostic Aspects", "A2.5": "Case Formulation and Integration of Information",
+ "A4.4": "Forensic Child and Adolescent Psychiatry", "B1.4": "The Speech, Language and Communication Needs of Children", "B5.3": "Children of Parents with Mental Illness",
+ "C1.4": "Parenting Programs and Parent-Mediated Programs", "G.2": "Substance Use Disorders", "H.3": "Transgender and Gender Non-Conforming Youth",
+ "C4.8": "Clinical Quality and Patient Safety"})
+

@@ -8,11 +8,11 @@ from pathlib import Path
 A = Path(__file__).resolve().parent
 KOK = A.parent
 sys.path.insert(0, str(A))
-import sorular_a, sorular_b, sorular_c, sorular_d, sorular_e, sorular_f, sorular_g, sorular_h, sorular_i, sorular_j
+import sorular_a, sorular_b, sorular_c, sorular_d, sorular_e, sorular_f, sorular_g, sorular_h, sorular_i, sorular_j, sorular_k, sorular_l
 from secenek_duzelt import DUZELT, DOGRU
 
 S = (sorular_a.SORULAR_A + sorular_b.SORULAR_B + sorular_c.SORULAR_C + sorular_d.SORULAR_D
-     + sorular_e.SORULAR_E + sorular_f.SORULAR_F + sorular_g.SORULAR_G + sorular_h.SORULAR_H + sorular_i.SORULAR_I + sorular_j.SORULAR_J)
+     + sorular_e.SORULAR_E + sorular_f.SORULAR_F + sorular_g.SORULAR_G + sorular_h.SORULAR_H + sorular_i.SORULAR_I + sorular_j.SORULAR_J + sorular_k.SORULAR_K + sorular_l.SORULAR_L)
 KAYNAK = json.loads((A / "kaynaklar.json").read_text(encoding="utf-8"))
 ADRES = "https://miracbarisusta.com/kendini-test-et/"
 TEST_SORU = 20

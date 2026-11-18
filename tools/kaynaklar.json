@@ -779,6 +779,10 @@
   "doi": "",
   "metin": "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014. Bölüm 1: Basic Principles of Dynamic Psychiatry."
  },
+ "g:10": {
+  "doi": "",
+  "metin": "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014. Bölüm 10: Trauma- and Stressor-Related Disorders and Dissociative Disorders."
+ },
  "g:12": {
   "doi": "",
   "metin": "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014. Bölüm 12: Substance-Related and Addictive Disorders and Eating Disorders."
@@ -786,6 +790,10 @@
  "g:13": {
   "doi": "",
   "metin": "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014. Bölüm 13: Neurodevelopmental and Neurocognitive Disorders."
+ },
+ "g:14": {
+  "doi": "",
+  "metin": "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014. Bölüm 14: Cluster A Personality Disorders: Paranoid, Schizoid, and Schizotypal."
  },
  "g:15": {
   "doi": "",
@@ -799,6 +807,10 @@
   "doi": "",
   "metin": "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014. Bölüm 17: Cluster B Personality Disorders: Antisocial."
  },
+ "g:18": {
+  "doi": "",
+  "metin": "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014. Bölüm 18: Hysterical and Histrionic Personality Disorders."
+ },
  "g:19": {
   "doi": "",
   "metin": "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014. Bölüm 19: Cluster C Personality Disorders: Obsessive-Compulsive, Avoidant, and Dependent."
@@ -811,6 +823,10 @@
   "doi": "",
   "metin": "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014. Bölüm 3: Psychodynamic Assessment of the Patient."
  },
+ "g:4": {
+  "doi": "",
+  "metin": "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014. Bölüm 4: Treatments in Dynamic Psychiatry: Individual Psychotherapy."
+ },
  "g:5": {
   "doi": "",
   "metin": "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014. Bölüm 5: Treatments in Dynamic Psychiatry: Group Therapy, Family/Marital Therapy, and Pharmacotherapy."
@@ -819,21 +835,77 @@
   "doi": "",
   "metin": "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014. Bölüm 6: Treatments in Dynamic Psychiatry: Multiple-Treater Settings."
  },
+ "g:7": {
+  "doi": "",
+  "metin": "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014. Bölüm 7: Schizophrenia."
+ },
  "g:8": {
   "doi": "",
   "metin": "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014. Bölüm 8: Affective Disorders."
+ },
+ "g:9": {
+  "doi": "",
+  "metin": "Gabbard GO. Psychodynamic Psychiatry in Clinical Practice. 5. baskı. Washington (DC): American Psychiatric Publishing; 2014. Bölüm 9: Anxiety Disorders."
+ },
+ "i:A.1": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm A.1."
+ },
+ "i:A.11": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm A.11."
+ },
+ "i:A.14": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm A.14."
+ },
+ "i:A.15": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm A.15."
  },
  "i:A.5": {
   "doi": "",
   "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm A.5: The Clinical Examination of Children, Adolescents and Their Families."
  },
+ "i:A.6": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm A.6."
+ },
  "i:A.7": {
   "doi": "",
   "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm A.7: Principles in Using Psychotropic Medication in Children and Adolescents."
  },
+ "i:A.8": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm A.8."
+ },
+ "i:A1.3": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm A1.3: Typical Child and Adolescent Development."
+ },
+ "i:A2.1": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm A2.1: Transdiagnostic Aspects."
+ },
+ "i:A2.2": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm A2.2."
+ },
  "i:A2.3": {
   "doi": "",
   "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm A2.3: Clinical Practice in Infant and Early Childhood Mental Health."
+ },
+ "i:A2.5": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm A2.5: Case Formulation and Integration of Information."
+ },
+ "i:A4.1": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm A4.1."
+ },
+ "i:A4.4": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm A4.4: Forensic Child and Adolescent Psychiatry."
  },
  "i:B.6.1": {
   "doi": "",
@@ -846,6 +918,14 @@
  "i:B1.3": {
   "doi": "",
   "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm B1.3: Tic Disorders."
+ },
+ "i:B1.4": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm B1.4: The Speech, Language and Communication Needs of Children."
+ },
+ "i:B1.6": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm B1.6."
  },
  "i:B2.2": {
   "doi": "",
@@ -883,9 +963,21 @@
   "doi": "",
   "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm B4.1: Alcohol Misuse."
  },
+ "i:B4.3": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm B4.3."
+ },
  "i:B5.1": {
   "doi": "",
   "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm B5.1: Acute and Chronic Reactions to Trauma in Children and Adolescents."
+ },
+ "i:B5.2": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm B5.2."
+ },
+ "i:B5.3": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm B5.3: Children of Parents with Mental Illness."
  },
  "i:B5.4": {
   "doi": "",
@@ -915,13 +1007,29 @@
   "doi": "",
   "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm C.2: Autism Spectrum Disorder."
  },
+ "i:C1.4": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm C1.4: Parenting Programs and Parent-Mediated Programs."
+ },
+ "i:C4.2": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm C4.2."
+ },
  "i:C4.4": {
   "doi": "",
   "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm C4.4: Pediatric Delirium: A Practical Approach."
  },
+ "i:C4.5": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm C4.5."
+ },
  "i:C4.6": {
   "doi": "",
   "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm C4.6: Child and Adolescent Psychiatric Emergencies."
+ },
+ "i:C4.8": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm C4.8: Clinical Quality and Patient Safety."
  },
  "i:E.1": {
   "doi": "",
@@ -931,6 +1039,14 @@
   "doi": "",
   "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm F.3: Obsessive Compulsive Disorder in Children and Adolescents."
  },
+ "i:G.2": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm G.2: Substance Use Disorders."
+ },
+ "i:H.3": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm H.3: Transgender and Gender Non-Conforming Youth."
+ },
  "i:H.5.1": {
   "doi": "",
   "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm H.5.1: Using Antipsychotic Medication for the Treatment of Schizophrenia in Children and Adolescents."
@@ -939,17 +1055,65 @@
   "doi": "",
   "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm I.1: Somatic Symptom, Bodily Distress and Related Disorders in Children and Adolescents."
  },
+ "i:I.2": {
+  "doi": "",
+  "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm I.2."
+ },
  "i:I.4": {
   "doi": "",
   "metin": "IACAPAP e-Textbook of Child and Adolescent Mental Health. Cenevre: International Association for Child and Adolescent Psychiatry and Allied Professions. Bölüm I.4: Sleep Disorders in Children and Adolescents."
+ },
+ "r:1": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 1."
+ },
+ "r:10": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 10."
+ },
+ "r:11": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 11."
+ },
+ "r:12": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 12."
  },
  "r:13": {
   "doi": "",
   "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 13: Identifying causal effects using natural experiments and other designs."
  },
+ "r:14": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 14."
+ },
+ "r:15": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 15."
+ },
+ "r:16": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 16."
+ },
+ "r:17": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 17."
+ },
+ "r:18": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 18."
+ },
+ "r:19": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 19."
+ },
  "r:2": {
   "doi": "",
   "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 2: Diagnosis, diagnostic formulation, and classification."
+ },
+ "r:20": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 20."
  },
  "r:21": {
   "doi": "",
@@ -971,6 +1135,10 @@
   "doi": "",
   "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 25: Child abuse and neglect."
  },
+ "r:26": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 26."
+ },
  "r:27": {
   "doi": "",
   "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 27: Clinical assessment and formulation."
@@ -979,9 +1147,21 @@
   "doi": "",
   "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 28: Use of structured interviews, rating scales, and observational methods in clinical settings."
  },
+ "r:29": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 29."
+ },
  "r:3": {
   "doi": "",
   "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 3: Neurodevelopmental disorders."
+ },
+ "r:30": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 30."
+ },
+ "r:32": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 32."
  },
  "r:33": {
   "doi": "",
@@ -999,21 +1179,65 @@
   "doi": "",
   "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 36: Relationship-based treatments."
  },
+ "r:37": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 37."
+ },
+ "r:38": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 38."
+ },
  "r:39": {
   "doi": "",
   "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 39: Pharmacological treatments, dietary-based interventions, and neuromodulation therapies."
+ },
+ "r:4": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 4."
  },
  "r:40": {
   "doi": "",
   "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 40: Diversity: gender identity and sexual orientation."
  },
+ "r:41": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 41."
+ },
  "r:42": {
   "doi": "",
   "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 42: Residential care, foster care, and adoption."
  },
+ "r:43": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 43."
+ },
+ "r:44": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 44."
+ },
+ "r:45": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 45."
+ },
+ "r:46": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 46: Working in low-resource settings."
+ },
  "r:47": {
   "doi": "",
   "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 47: Forensic child and adolescent psychiatry."
+ },
+ "r:48": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 48."
+ },
+ "r:49": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 49."
+ },
+ "r:5": {
+  "doi": "",
+  "metin": "Thapar A ve ark., editörler. Rutter's Child and Adolescent Psychiatry and Psychology. 7. baskı. Chichester: John Wiley & Sons; 2025. Bölüm 5."
  },
  "r:50": {
   "doi": "",

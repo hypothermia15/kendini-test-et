@@ -2,7 +2,7 @@
 
 Çocuk ve ergen psikiyatrisi ağırlıklı bilgi yarışı. [miracbarisusta.com/kendini-test-et](https://miracbarisusta.com/kendini-test-et/) adresinde yayımlanır.
 
-- 750 soruluk havuzdan her testte rastgele 20 soru gelir; seçeneklerin sırası her gösterimde karışır.
+- 1000 soruluk havuzdan her testte rastgele 20 soru gelir; seçeneklerin sırası her gösterimde karışır.
 - Her doğru yanıt 100 taban puan ve en çok 100 hız primi kazandırır. Hız primi ilk 3 saniyede tamdır, 30. saniyede sıfırlanır.
 - Yanıttan sonra doğru seçenek, kısa açıklama ve kaynak gösterilir.
 - Skorlar rumuzla herkese açık tabloya gönderilebilir (bu ay ve tüm zamanlar).
@@ -13,7 +13,7 @@
 | --- | --- |
 | `index.html` | Üretilen sayfa; soru havuzu sayfanın içindedir. Elle düzenlenmez. |
 | `test.js`, `test.css` | Test motoru ve biçim. |
-| `tools/sorular_a.py` … `sorular_j.py` | Soru havuzu. Doğru yanıt her soruda ilk seçenektir. |
+| `tools/sorular_a.py` … `sorular_l.py` | Soru havuzu. Doğru yanıt her soruda ilk seçenektir. |
 | `tools/secenek_duzelt.py` | Seçenek uzunluklarını dengeleyen düzeltmeler (doğru yanıt uzunluğuyla belli olmasın). |
 | `tools/kaynaklar.json` | Soruların kaynakları. |
 | `tools/kaynak_ek.py`, `tools/kaynak_cikar.py` | Kaynak listesini üreten yardımcılar. |
@@ -21,7 +21,7 @@
 
 ## Soru eklemek
 
-1. Soruyu `tools/sorular_*.py` dosyalarından birine yeni bir kimlikle (`q751`…) ekleyin. Kimlikler kalıcıdır; silinen sorunun kimliği yeniden kullanılmaz.
+1. Soruyu `tools/sorular_*.py` dosyalarından birine yeni bir kimlikle ekleyin. Skor işlevi yalnızca `q` ve üç rakamdan oluşan kimlikleri kabul eder; `q000`–`q999` aralığı dolmuştur. Yeni soru eklemek için önce site deposundaki `netlify/functions/skor/cekirdek.mjs` içindeki kimlik denetimi genişletilmelidir. Kimlikler kalıcıdır; silinen sorunun kimliği yeniden kullanılmaz.
 2. Kaynak öteki rehberlerin kaynakçasında yoksa `tools/kaynak_ek.py` dosyasına ekleyin ve `tools/kaynak_cikar.py` betiğini çalıştırın.
 3. `python3 tools/olustur.py` ile sayfayı yeniden üretin.
 
