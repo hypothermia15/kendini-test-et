@@ -146,11 +146,13 @@
 
   function yanitla(konum) {
     if (kilit) return;
-    if (konum >= 0 && performance.now() - t0 < EN_ERKEN) return;   // yanlışlıkla çift dokunmayı yok say
+    var gecen = performance.now() - t0;
+    if (gecen >= SURE) konum = -1;
+    if (konum >= 0 && gecen < EN_ERKEN) return;   // yanlışlıkla çift dokunmayı yok say
     kilit = true;
     cancelAnimationFrame(sayacNo);
     var m = test[no], q = m.q;
-    var ms = Math.min(SURE, Math.round(performance.now() - t0));
+    var ms = Math.min(SURE, Math.round(gecen));
     var oz = konum < 0 ? -1 : m.sira[konum];
     if (konum < 0) ms = SURE;
     var dogru = oz === 0, kazanc = dogru ? TABAN + primHesap(ms) : 0;
