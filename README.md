@@ -21,7 +21,7 @@
 
 ## Soru eklemek
 
-1. Soruyu `tools/sorular_*.py` dosyalarından birine yeni bir kimlikle ekleyin. Skor işlevi yalnızca `q` ve üç rakamdan oluşan kimlikleri kabul eder; `q000`–`q999` aralığı dolmuştur. Yeni soru eklemek için önce site deposundaki `netlify/functions/skor/cekirdek.mjs` içindeki kimlik denetimi genişletilmelidir. Kimlikler kalıcıdır; silinen sorunun kimliği yeniden kullanılmaz.
+1. Soruyu `tools/sorular_*.py` dosyalarından birine yeni bir kimlikle ekleyin. Güncel havuz `q000`–`q1499` kimliklerini kullanır. Bu aralığın dışına çıkarken site deposundaki `netlify/functions/skor/cekirdek.mjs` doğrulamasını da güncelleyin. Kimlikler kalıcıdır; silinen sorunun kimliği yeniden kullanılmaz.
 2. Kaynak öteki rehberlerin kaynakçasında yoksa `tools/kaynak_ek.py` dosyasına ekleyin ve `tools/kaynak_cikar.py` betiğini çalıştırın.
 3. `python3 tools/olustur.py` ile sayfayı yeniden üretin.
 
@@ -39,4 +39,4 @@ Sorular DSM-5-TR'ye, Rutter's Child and Adolescent Psychiatry and Psychology'ye 
 
 ## Soru kimlikleri
 
-Kimlikler `q000`–`q999` aralığını doldurduktan sonra dört haneyle sürer (`q1000`…). Sitenin skor işlevi (`netlify/functions/skor/cekirdek.mjs`) kimliği `/^q\d{3,4}$/` ile doğrulamalıdır; üç haneli eski doğrulama dört haneli soruları içeren testlerin skorunu reddeder. Lewis soruları taranmış kitabın OCR metninden çıkarılmıştır.
+Kimlikler `q000`–`q999` aralığını doldurduktan sonra dört haneyle sürer (`q1000`…). Lewis soruları taranmış kitabın OCR metninden çıkarılmıştır.
