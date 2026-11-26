@@ -18,6 +18,7 @@
 | `tools/kaynaklar.json` | Soruların kaynakları. |
 | `tools/kaynak_ek.py`, `tools/kaynak_cikar.py` | Kaynak listesini üreten yardımcılar. |
 | `tools/olustur.py` | `index.html` üreticisi. |
+| `olcek-puanlama/` | Bilgi yarışından bağımsız: 51 ölçeğin puanlama Excel'i ve tarayıcı hesaplayıcısı. Ayrıntı klasörün `README.md` dosyasında. |
 
 ## Soru eklemek
 
